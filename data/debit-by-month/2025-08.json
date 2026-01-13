@@ -13,7 +13,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "80663.27",
     "check_number": "",
-    "raw_row_index": 617
+    "raw_row_index": 660
   },
   {
     "stable_id": "debit_e8190d44ca14aef0",
@@ -29,7 +29,7 @@
     "details_raw": "CHECK",
     "balance_raw": "75162.26",
     "check_number": "1063",
-    "raw_row_index": 616
+    "raw_row_index": 659
   },
   {
     "stable_id": "debit_0cf6a706e1131377",
@@ -45,7 +45,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "81386.27",
     "check_number": "",
-    "raw_row_index": 618
+    "raw_row_index": 661
   },
   {
     "stable_id": "debit_f2a8a7f47a67b392",
@@ -61,7 +61,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "56974.08",
     "check_number": "",
-    "raw_row_index": 622
+    "raw_row_index": 665
   },
   {
     "stable_id": "debit_a84bba471152a92b",
@@ -77,7 +77,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "56136.20",
     "check_number": "",
-    "raw_row_index": 621
+    "raw_row_index": 664
   },
   {
     "stable_id": "debit_8a69740d523834fd",
@@ -93,7 +93,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "55886.27",
     "check_number": "",
-    "raw_row_index": 619
+    "raw_row_index": 662
   },
   {
     "stable_id": "debit_3ae9e8830486fc7e",
@@ -109,7 +109,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "55986.27",
     "check_number": "",
-    "raw_row_index": 620
+    "raw_row_index": 663
   },
   {
     "stable_id": "debit_e17f966bb184de32",
@@ -125,7 +125,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "26473.92",
     "check_number": "",
-    "raw_row_index": 626
+    "raw_row_index": 669
   },
   {
     "stable_id": "debit_e16531416addafd1",
@@ -141,7 +141,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "25557.08",
     "check_number": "",
-    "raw_row_index": 624
+    "raw_row_index": 667
   },
   {
     "stable_id": "debit_a75e1108d69dbc7b",
@@ -157,7 +157,7 @@
     "details_raw": "DSLIP",
     "balance_raw": "96712.60",
     "check_number": "",
-    "raw_row_index": 628
+    "raw_row_index": 671
   },
   {
     "stable_id": "debit_a556f1a94542e8d3",
@@ -173,7 +173,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "25677.08",
     "check_number": "",
-    "raw_row_index": 625
+    "raw_row_index": 668
   },
   {
     "stable_id": "debit_420dd16f9fab4dc4",
@@ -189,7 +189,7 @@
     "details_raw": "CHECK",
     "balance_raw": "21707.08",
     "check_number": "1074",
-    "raw_row_index": 623
+    "raw_row_index": 666
   },
   {
     "stable_id": "debit_0f5c16564c18473e",
@@ -205,7 +205,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "36546.01",
     "check_number": "",
-    "raw_row_index": 627
+    "raw_row_index": 670
   },
   {
     "stable_id": "debit_9f8237a5efd3880c",
@@ -221,7 +221,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "93712.60",
     "check_number": "",
-    "raw_row_index": 629
+    "raw_row_index": 672
   },
   {
     "stable_id": "debit_944c1756c3216218",
@@ -237,7 +237,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "99433.48",
     "check_number": "",
-    "raw_row_index": 632
+    "raw_row_index": 675
   },
   {
     "stable_id": "debit_70854e192f66f062",
@@ -253,7 +253,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "98633.48",
     "check_number": "",
-    "raw_row_index": 631
+    "raw_row_index": 674
   },
   {
     "stable_id": "debit_33b932b19cda8988",
@@ -269,7 +269,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "98413.48",
     "check_number": "",
-    "raw_row_index": 630
+    "raw_row_index": 673
   },
   {
     "stable_id": "debit_29f5d83af639e253",
@@ -285,7 +285,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "100408.48",
     "check_number": "",
-    "raw_row_index": 633
+    "raw_row_index": 676
   },
   {
     "stable_id": "debit_1d5620c43cf5fa4c",
@@ -301,7 +301,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "100508.48",
     "check_number": "",
-    "raw_row_index": 634
+    "raw_row_index": 677
   },
   {
     "stable_id": "debit_d3effbe2f9f64955",
@@ -317,7 +317,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "54170.02",
     "check_number": "",
-    "raw_row_index": 637
+    "raw_row_index": 680
   },
   {
     "stable_id": "debit_cf0250eb6fc83b03",
@@ -333,7 +333,7 @@
     "details_raw": "DSLIP",
     "balance_raw": "79809.97",
     "check_number": "",
-    "raw_row_index": 639
+    "raw_row_index": 682
   },
   {
     "stable_id": "debit_40424b6c7d010b4c",
@@ -349,7 +349,7 @@
     "details_raw": "CHECK",
     "balance_raw": "45633.32",
     "check_number": "1075",
-    "raw_row_index": 636
+    "raw_row_index": 679
   },
   {
     "stable_id": "debit_11715ecb97469f04",
@@ -365,7 +365,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "79670.02",
     "check_number": "",
-    "raw_row_index": 638
+    "raw_row_index": 681
   },
   {
     "stable_id": "debit_0c638ac5874e6c79",
@@ -381,7 +381,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "44533.32",
     "check_number": "",
-    "raw_row_index": 635
+    "raw_row_index": 678
   },
   {
     "stable_id": "debit_f58d5434aa005442",
@@ -397,7 +397,7 @@
     "details_raw": "CHECK",
     "balance_raw": "70359.97",
     "check_number": "1072",
-    "raw_row_index": 642
+    "raw_row_index": 685
   },
   {
     "stable_id": "debit_bf4430ffd1bf5294",
@@ -413,7 +413,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "29809.97",
     "check_number": "",
-    "raw_row_index": 640
+    "raw_row_index": 683
   },
   {
     "stable_id": "debit_a5236384cdbf3f64",
@@ -429,7 +429,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "29939.97",
     "check_number": "",
-    "raw_row_index": 641
+    "raw_row_index": 684
   },
   {
     "stable_id": "debit_95c7b75d7bbd092f",
@@ -445,7 +445,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "117359.97",
     "check_number": "",
-    "raw_row_index": 643
+    "raw_row_index": 686
   },
   {
     "stable_id": "debit_e6c45285fdb2f3ff",
@@ -461,7 +461,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "84359.97",
     "check_number": "",
-    "raw_row_index": 644
+    "raw_row_index": 687
   },
   {
     "stable_id": "debit_4c6fe6a563d927d3",
@@ -477,7 +477,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "86271.97",
     "check_number": "",
-    "raw_row_index": 645
+    "raw_row_index": 688
   },
   {
     "stable_id": "debit_c721f89804a3609d",
@@ -493,7 +493,7 @@
     "details_raw": "CHECK",
     "balance_raw": "87527.97",
     "check_number": "1067",
-    "raw_row_index": 646
+    "raw_row_index": 689
   },
   {
     "stable_id": "debit_83a0fe059d8ebc63",
@@ -509,7 +509,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "158626.96",
     "check_number": "",
-    "raw_row_index": 648
+    "raw_row_index": 691
   },
   {
     "stable_id": "debit_12bfb4a55e8f2c6f",
@@ -525,7 +525,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "108626.96",
     "check_number": "",
-    "raw_row_index": 647
+    "raw_row_index": 690
   },
   {
     "stable_id": "debit_b567f4ac265172b7",
@@ -541,7 +541,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "159626.96",
     "check_number": "",
-    "raw_row_index": 649
+    "raw_row_index": 692
   },
   {
     "stable_id": "debit_b331ddcace6ab080",
@@ -557,7 +557,7 @@
     "details_raw": "DSLIP",
     "balance_raw": "153626.96",
     "check_number": "",
-    "raw_row_index": 651
+    "raw_row_index": 694
   },
   {
     "stable_id": "debit_5d0707d26b0523b3",
@@ -573,7 +573,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "157126.96",
     "check_number": "",
-    "raw_row_index": 650
+    "raw_row_index": 693
   },
   {
     "stable_id": "debit_dc1644e33958440b",
@@ -589,7 +589,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "122863.21",
     "check_number": "",
-    "raw_row_index": 657
+    "raw_row_index": 700
   },
   {
     "stable_id": "debit_884854aa3d67fa49",
@@ -605,7 +605,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "103626.96",
     "check_number": "",
-    "raw_row_index": 652
+    "raw_row_index": 695
   },
   {
     "stable_id": "debit_758f05a92604a766",
@@ -621,7 +621,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "117475.60",
     "check_number": "",
-    "raw_row_index": 654
+    "raw_row_index": 697
   },
   {
     "stable_id": "debit_6ead2edb00cd86f7",
@@ -637,7 +637,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "127363.21",
     "check_number": "",
-    "raw_row_index": 655
+    "raw_row_index": 698
   },
   {
     "stable_id": "debit_5d0a49861049ae6f",
@@ -653,7 +653,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "126363.21",
     "check_number": "",
-    "raw_row_index": 656
+    "raw_row_index": 699
   },
   {
     "stable_id": "debit_3158bfee954cfd0b",
@@ -669,7 +669,7 @@
     "details_raw": "CHECK",
     "balance_raw": "103651.96",
     "check_number": "1065",
-    "raw_row_index": 653
+    "raw_row_index": 696
   },
   {
     "stable_id": "debit_f8c571863d4473a4",
@@ -685,7 +685,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "149041.47",
     "check_number": "",
-    "raw_row_index": 663
+    "raw_row_index": 706
   },
   {
     "stable_id": "debit_f897106ed42b581f",
@@ -701,7 +701,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "191268.20",
     "check_number": "",
-    "raw_row_index": 667
+    "raw_row_index": 710
   },
   {
     "stable_id": "debit_d24758cd5b056f94",
@@ -717,7 +717,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "191393.20",
     "check_number": "",
-    "raw_row_index": 668
+    "raw_row_index": 711
   },
   {
     "stable_id": "debit_acbdc1bcdfe55928",
@@ -733,7 +733,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "190743.20",
     "check_number": "",
-    "raw_row_index": 669
+    "raw_row_index": 712
   },
   {
     "stable_id": "debit_aba2407c2216d749",
@@ -749,7 +749,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "190668.20",
     "check_number": "",
-    "raw_row_index": 666
+    "raw_row_index": 709
   },
   {
     "stable_id": "debit_61927932752fe4cc",
@@ -765,7 +765,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "148430.91",
     "check_number": "",
-    "raw_row_index": 661
+    "raw_row_index": 704
   },
   {
     "stable_id": "debit_3ee66e874f58dae1",
@@ -781,7 +781,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "113696.91",
     "check_number": "",
-    "raw_row_index": 658
+    "raw_row_index": 701
   },
   {
     "stable_id": "debit_3ba64d8aa906af45",
@@ -797,7 +797,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "115430.91",
     "check_number": "",
-    "raw_row_index": 660
+    "raw_row_index": 703
   },
   {
     "stable_id": "debit_29a563d0577cbad5",
@@ -813,7 +813,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "151618.15",
     "check_number": "",
-    "raw_row_index": 665
+    "raw_row_index": 708
   },
   {
     "stable_id": "debit_27c85cec5969779a",
@@ -829,7 +829,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "148612.45",
     "check_number": "",
-    "raw_row_index": 662
+    "raw_row_index": 705
   },
   {
     "stable_id": "debit_1ad1261155a7d944",
@@ -845,7 +845,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "149554.10",
     "check_number": "",
-    "raw_row_index": 664
+    "raw_row_index": 707
   },
   {
     "stable_id": "debit_18b3867a289e79e5",
@@ -861,7 +861,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "189743.20",
     "check_number": "",
-    "raw_row_index": 670
+    "raw_row_index": 713
   },
   {
     "stable_id": "debit_161a31e17f5868d8",
@@ -877,7 +877,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "166743.20",
     "check_number": "",
-    "raw_row_index": 671
+    "raw_row_index": 714
   },
   {
     "stable_id": "debit_0fbec03990f34e43",
@@ -893,7 +893,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "114780.91",
     "check_number": "",
-    "raw_row_index": 659
+    "raw_row_index": 702
   },
   {
     "stable_id": "debit_d23a45af365877f1",
@@ -909,7 +909,7 @@
     "details_raw": "DSLIP",
     "balance_raw": "106644.20",
     "check_number": "1",
-    "raw_row_index": 674
+    "raw_row_index": 717
   },
   {
     "stable_id": "debit_a5003de029c133a1",
@@ -925,7 +925,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "102743.20",
     "check_number": "",
-    "raw_row_index": 672
+    "raw_row_index": 715
   },
   {
     "stable_id": "debit_7a75769634d8d0a9",
@@ -941,7 +941,7 @@
     "details_raw": "DSLIP",
     "balance_raw": "106658.20",
     "check_number": "1",
-    "raw_row_index": 673
+    "raw_row_index": 716
   },
   {
     "stable_id": "debit_fc2b3265682bbe67",
@@ -957,7 +957,7 @@
     "details_raw": "DSLIP",
     "balance_raw": "107469.08",
     "check_number": "",
-    "raw_row_index": 682
+    "raw_row_index": 725
   },
   {
     "stable_id": "debit_f5dfeb23d6f96b8c",
@@ -973,7 +973,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "64830.20",
     "check_number": "",
-    "raw_row_index": 679
+    "raw_row_index": 722
   },
   {
     "stable_id": "debit_e053085a56359c5b",
@@ -989,7 +989,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "63644.20",
     "check_number": "",
-    "raw_row_index": 675
+    "raw_row_index": 718
   },
   {
     "stable_id": "debit_ddf1138ed923ce82",
@@ -1005,7 +1005,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "64504.20",
     "check_number": "",
-    "raw_row_index": 677
+    "raw_row_index": 720
   },
   {
     "stable_id": "debit_987037bc0209646d",
@@ -1021,7 +1021,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "64550.20",
     "check_number": "",
-    "raw_row_index": 678
+    "raw_row_index": 721
   },
   {
     "stable_id": "debit_91604fd7ac1f23ba",
@@ -1037,7 +1037,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "107926.08",
     "check_number": "",
-    "raw_row_index": 681
+    "raw_row_index": 724
   },
   {
     "stable_id": "debit_6ce5ea4a7e3b5403",
@@ -1053,7 +1053,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "63924.20",
     "check_number": "",
-    "raw_row_index": 676
+    "raw_row_index": 719
   },
   {
     "stable_id": "debit_31cad5231374afc4",
@@ -1069,7 +1069,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "105879.08",
     "check_number": "",
-    "raw_row_index": 680
+    "raw_row_index": 723
   },
   {
     "stable_id": "debit_d48a47fd06abfc29",
@@ -1085,7 +1085,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "103527.08",
     "check_number": "",
-    "raw_row_index": 687
+    "raw_row_index": 730
   },
   {
     "stable_id": "debit_d2600512beff3932",
@@ -1101,7 +1101,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "103117.08",
     "check_number": "",
-    "raw_row_index": 685
+    "raw_row_index": 728
   },
   {
     "stable_id": "debit_86b83121cb88c377",
@@ -1117,7 +1117,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "74224.08",
     "check_number": "",
-    "raw_row_index": 683
+    "raw_row_index": 726
   },
   {
     "stable_id": "debit_855d2c0b6964fed0",
@@ -1133,7 +1133,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "121322.57",
     "check_number": "",
-    "raw_row_index": 689
+    "raw_row_index": 732
   },
   {
     "stable_id": "debit_5e4a5cd7de299c20",
@@ -1149,7 +1149,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "103112.08",
     "check_number": "",
-    "raw_row_index": 684
+    "raw_row_index": 727
   },
   {
     "stable_id": "debit_4ffca1f6950cffb7",
@@ -1165,7 +1165,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "122077.02",
     "check_number": "",
-    "raw_row_index": 690
+    "raw_row_index": 733
   },
   {
     "stable_id": "debit_34b7bd01d8439014",
@@ -1181,7 +1181,7 @@
     "details_raw": "CHECK",
     "balance_raw": "108822.57",
     "check_number": "1062",
-    "raw_row_index": 688
+    "raw_row_index": 731
   },
   {
     "stable_id": "debit_3227fefaa8c94388",
@@ -1197,7 +1197,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "103127.08",
     "check_number": "",
-    "raw_row_index": 686
+    "raw_row_index": 729
   },
   {
     "stable_id": "debit_cd7ee2397980ba40",
@@ -1213,7 +1213,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "95488.30",
     "check_number": "",
-    "raw_row_index": 693
+    "raw_row_index": 736
   },
   {
     "stable_id": "debit_8573cee1c790b528",
@@ -1229,7 +1229,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "95513.30",
     "check_number": "",
-    "raw_row_index": 694
+    "raw_row_index": 737
   },
   {
     "stable_id": "debit_7def9c30b0724da7",
@@ -1245,7 +1245,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "95683.30",
     "check_number": "",
-    "raw_row_index": 695
+    "raw_row_index": 738
   },
   {
     "stable_id": "debit_7c5c7127c7d78dd3",
@@ -1261,7 +1261,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "95203.30",
     "check_number": "",
-    "raw_row_index": 691
+    "raw_row_index": 734
   },
   {
     "stable_id": "debit_177fdd7db800f737",
@@ -1277,7 +1277,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "95478.30",
     "check_number": "",
-    "raw_row_index": 692
+    "raw_row_index": 735
   },
   {
     "stable_id": "debit_e7650ce528da8d84",
@@ -1293,7 +1293,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "151650.58",
     "check_number": "",
-    "raw_row_index": 698
+    "raw_row_index": 741
   },
   {
     "stable_id": "debit_c1c0a0a9eac484c0",
@@ -1309,7 +1309,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "127850.58",
     "check_number": "",
-    "raw_row_index": 700
+    "raw_row_index": 743
   },
   {
     "stable_id": "debit_a09a4c35301bd3dc",
@@ -1325,7 +1325,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "151730.58",
     "check_number": "",
-    "raw_row_index": 697
+    "raw_row_index": 740
   },
   {
     "stable_id": "debit_3070902eca6be784",
@@ -1341,7 +1341,7 @@
     "details_raw": "DSLIP",
     "balance_raw": "150650.58",
     "check_number": "1",
-    "raw_row_index": 699
+    "raw_row_index": 742
   },
   {
     "stable_id": "debit_2fd4105707bf42dc",
@@ -1357,7 +1357,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "95983.30",
     "check_number": "",
-    "raw_row_index": 696
+    "raw_row_index": 739
   },
   {
     "stable_id": "debit_b77dc727d50d515c",
@@ -1373,7 +1373,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "88516.58",
     "check_number": "",
-    "raw_row_index": 702
+    "raw_row_index": 745
   },
   {
     "stable_id": "debit_ac1696325add342e",
@@ -1389,7 +1389,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "101030.58",
     "check_number": "",
-    "raw_row_index": 703
+    "raw_row_index": 746
   },
   {
     "stable_id": "debit_44743c6bfdb52fbf",
@@ -1405,7 +1405,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "134602.53",
     "check_number": "",
-    "raw_row_index": 705
+    "raw_row_index": 748
   },
   {
     "stable_id": "debit_0352bc6e3608f8b3",
@@ -1421,7 +1421,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "87916.58",
     "check_number": "",
-    "raw_row_index": 701
+    "raw_row_index": 744
   },
   {
     "stable_id": "debit_0148fe5a44334a11",
@@ -1437,7 +1437,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "102250.58",
     "check_number": "",
-    "raw_row_index": 704
+    "raw_row_index": 747
   },
   {
     "stable_id": "debit_e648ed47352456a0",
@@ -1453,7 +1453,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "135947.11",
     "check_number": "",
-    "raw_row_index": 707
+    "raw_row_index": 750
   },
   {
     "stable_id": "debit_c751367446b37ad9",
@@ -1469,7 +1469,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "265453.26",
     "check_number": "",
-    "raw_row_index": 717
+    "raw_row_index": 760
   },
   {
     "stable_id": "debit_b12436f747ced621",
@@ -1485,7 +1485,7 @@
     "details_raw": "CHECK",
     "balance_raw": "136447.11",
     "check_number": "1060",
-    "raw_row_index": 708
+    "raw_row_index": 751
   },
   {
     "stable_id": "debit_b055e536b462c7eb",
@@ -1501,7 +1501,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "162267.43",
     "check_number": "",
-    "raw_row_index": 710
+    "raw_row_index": 753
   },
   {
     "stable_id": "debit_8dacfeb44b24f26a",
@@ -1517,7 +1517,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "143102.11",
     "check_number": "",
-    "raw_row_index": 709
+    "raw_row_index": 752
   },
   {
     "stable_id": "debit_8627acaab106f57e",
@@ -1533,7 +1533,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "189867.43",
     "check_number": "",
-    "raw_row_index": 712
+    "raw_row_index": 755
   },
   {
     "stable_id": "debit_7532114c62e75071",
@@ -1549,7 +1549,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "135852.11",
     "check_number": "",
-    "raw_row_index": 706
+    "raw_row_index": 749
   },
   {
     "stable_id": "debit_6f410faca6842a11",
@@ -1565,7 +1565,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "192367.43",
     "check_number": "",
-    "raw_row_index": 713
+    "raw_row_index": 756
   },
   {
     "stable_id": "debit_67b2b24750463cd9",
@@ -1581,7 +1581,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "268253.26",
     "check_number": "",
-    "raw_row_index": 715
+    "raw_row_index": 758
   },
   {
     "stable_id": "debit_4e0164aed85b2a33",
@@ -1597,7 +1597,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "189267.43",
     "check_number": "",
-    "raw_row_index": 711
+    "raw_row_index": 754
   },
   {
     "stable_id": "debit_3b0c7622973ad130",
@@ -1613,7 +1613,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "205120.80",
     "check_number": "",
-    "raw_row_index": 714
+    "raw_row_index": 757
   },
   {
     "stable_id": "debit_1fa87fab46fecb0e",
@@ -1629,7 +1629,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "267253.26",
     "check_number": "",
-    "raw_row_index": 716
+    "raw_row_index": 759
   },
   {
     "stable_id": "debit_d9b9de8047db28af",
@@ -1645,7 +1645,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "211131.11",
     "check_number": "",
-    "raw_row_index": 722
+    "raw_row_index": 765
   },
   {
     "stable_id": "debit_d1f98ac66818dd5f",
@@ -1661,7 +1661,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "216174.58",
     "check_number": "",
-    "raw_row_index": 729
+    "raw_row_index": 772
   },
   {
     "stable_id": "debit_ab37f6fc14e5a6c1",
@@ -1677,7 +1677,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "206935.29",
     "check_number": "",
-    "raw_row_index": 718
+    "raw_row_index": 761
   },
   {
     "stable_id": "debit_9fb7d6db1cb2626b",
@@ -1693,7 +1693,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "214114.58",
     "check_number": "",
-    "raw_row_index": 730
+    "raw_row_index": 773
   },
   {
     "stable_id": "debit_8dd4471099f24448",
@@ -1709,7 +1709,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "209486.85",
     "check_number": "",
-    "raw_row_index": 721
+    "raw_row_index": 764
   },
   {
     "stable_id": "debit_8ae4b064b0b1ba0c",
@@ -1725,7 +1725,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "200722.58",
     "check_number": "",
-    "raw_row_index": 733
+    "raw_row_index": 776
   },
   {
     "stable_id": "debit_73a96dd621ccd408",
@@ -1741,7 +1741,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "73145.11",
     "check_number": "",
-    "raw_row_index": 735
+    "raw_row_index": 778
   },
   {
     "stable_id": "debit_7023e51f1ab5153c",
@@ -1757,7 +1757,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "214165.65",
     "check_number": "",
-    "raw_row_index": 725
+    "raw_row_index": 768
   },
   {
     "stable_id": "debit_66f616d665c8cead",
@@ -1773,7 +1773,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "210614.58",
     "check_number": "",
-    "raw_row_index": 731
+    "raw_row_index": 774
   },
   {
     "stable_id": "debit_6495763138ad8e79",
@@ -1789,7 +1789,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "213588.65",
     "check_number": "",
-    "raw_row_index": 723
+    "raw_row_index": 766
   },
   {
     "stable_id": "debit_6330b53b439aca2e",
@@ -1805,7 +1805,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "215300.33",
     "check_number": "",
-    "raw_row_index": 727
+    "raw_row_index": 770
   },
   {
     "stable_id": "debit_59209a0f5681ffff",
@@ -1821,7 +1821,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "206722.58",
     "check_number": "",
-    "raw_row_index": 732
+    "raw_row_index": 775
   },
   {
     "stable_id": "debit_4a7b1b6ec76d8d73",
@@ -1837,7 +1837,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "215165.65",
     "check_number": "",
-    "raw_row_index": 726
+    "raw_row_index": 769
   },
   {
     "stable_id": "debit_453ed94ad63b0380",
@@ -1853,7 +1853,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "207935.29",
     "check_number": "",
-    "raw_row_index": 719
+    "raw_row_index": 762
   },
   {
     "stable_id": "debit_3f89549ef638c2fe",
@@ -1869,7 +1869,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "213665.65",
     "check_number": "",
-    "raw_row_index": 724
+    "raw_row_index": 767
   },
   {
     "stable_id": "debit_339080d5d40b6da1",
@@ -1885,7 +1885,7 @@
     "details_raw": "DSLIP",
     "balance_raw": "133145.11",
     "check_number": "",
-    "raw_row_index": 734
+    "raw_row_index": 777
   },
   {
     "stable_id": "debit_2f739b12666769c0",
@@ -1901,7 +1901,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "207950.29",
     "check_number": "",
-    "raw_row_index": 720
+    "raw_row_index": 763
   },
   {
     "stable_id": "debit_2d7345ab7eed3744",
@@ -1917,7 +1917,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "216674.58",
     "check_number": "",
-    "raw_row_index": 728
+    "raw_row_index": 771
   },
   {
     "stable_id": "debit_b0370035c6d35f47",
@@ -1933,7 +1933,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "7645.11",
     "check_number": "",
-    "raw_row_index": 741
+    "raw_row_index": 784
   },
   {
     "stable_id": "debit_a8a1e685226471c4",
@@ -1949,7 +1949,7 @@
     "details_raw": "DSLIP",
     "balance_raw": "24645.11",
     "check_number": "",
-    "raw_row_index": 740
+    "raw_row_index": 783
   },
   {
     "stable_id": "debit_77bfb70f44fce52a",
@@ -1965,7 +1965,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "23745.11",
     "check_number": "",
-    "raw_row_index": 737
+    "raw_row_index": 780
   },
   {
     "stable_id": "debit_3ec69722a01b38fd",
@@ -1981,7 +1981,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "24345.11",
     "check_number": "",
-    "raw_row_index": 738
+    "raw_row_index": 781
   },
   {
     "stable_id": "debit_31a88c409b90fe5e",
@@ -1997,7 +1997,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "24545.11",
     "check_number": "",
-    "raw_row_index": 739
+    "raw_row_index": 782
   },
   {
     "stable_id": "debit_262568d3641c0b8b",
@@ -2013,6 +2013,6 @@
     "details_raw": "DEBIT",
     "balance_raw": "23145.11",
     "check_number": "",
-    "raw_row_index": 736
+    "raw_row_index": 779
   }
 ]
