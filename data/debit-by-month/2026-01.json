@@ -1,51 +1,787 @@
 [
   {
-    "stable_id": "debit_c395464c47b8da8f",
+    "stable_id": "debit_8eb75392e338ffad",
+    "source": "debit",
+    "date": "2026-01-21",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -90962.31,
+    "description_raw": "ORIG CO NAME:NEXTGEAR PAYMENT CO ENTRY DESCR:PAYMENT SEC:CCD IND ID:155929 ORIG ID:1260401907",
+    "description_norm": "ORIG CO NAME:NEXTGEAR PAYMENT CO ENTRY DESCR:PAYMENT SEC:CCD IND ID:155929 ORIG ID:1260401907",
+    "type_raw": "ACH_DEBIT",
+    "details_raw": "DEBIT",
+    "balance_raw": " ",
+    "check_number": "",
+    "raw_row_index": 1
+  },
+  {
+    "stable_id": "debit_09517356af927c1b",
+    "source": "debit",
+    "date": "2026-01-21",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -1700,
+    "description_raw": "ZELLE PAYMENT TO WSC 27777028854",
+    "description_norm": "ZELLE PAYMENT TO WSC 27777028854",
+    "type_raw": "QUICKPAY_DEBIT",
+    "details_raw": "DEBIT",
+    "balance_raw": " ",
+    "check_number": "",
+    "raw_row_index": 0
+  },
+  {
+    "stable_id": "debit_e4c2c251fbcab55d",
+    "source": "debit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": 8300,
+    "description_raw": "ORIG CO NAME:NEXTGEAR FUNDING ORIG ID:1201990165 DESC DATE:012026 CO ENTRY DESCR:FUNDING SEC:CCD TRACE#:091000017707513 EED:260120 IND ID:155929 IND NAME:ICAR LIFESTYLE TRN: 0207707513TC",
+    "description_norm": "ORIG CO NAME:NEXTGEAR FUNDING ORIG ID:1201990165 DESC DATE:012026 CO ENTRY DESCR:FUNDING SEC:CCD TRACE#:091000017707513 EED:260120 IND ID:155929 IND NAME:ICAR LIFESTYLE TRN: 0207707513TC",
+    "type_raw": "ACH_CREDIT",
+    "details_raw": "CREDIT",
+    "balance_raw": "191165.51",
+    "check_number": "",
+    "raw_row_index": 10
+  },
+  {
+    "stable_id": "debit_ddf2d466d40e2485",
+    "source": "debit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": 58500,
+    "description_raw": "REMOTE ONLINE DEPOSIT # 1",
+    "description_norm": "REMOTE ONLINE DEPOSIT # 1",
+    "type_raw": "CHECK_DEPOSIT",
+    "details_raw": "DSLIP",
+    "balance_raw": "101186.58",
+    "check_number": "1",
+    "raw_row_index": 13
+  },
+  {
+    "stable_id": "debit_dbaf4393315ea884",
+    "source": "debit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": 36462.56,
+    "description_raw": "ORIG CO NAME:WESTLAKE FINANCI ORIG ID:2272814169 DESC DATE:011626 CO ENTRY DESCR:PAYABLES SEC:PPD TRACE#:091000013510642 EED:260120 IND ID: IND NAME:ATTITUDE D LLC TRN: 0203510642TC",
+    "description_norm": "ORIG CO NAME:WESTLAKE FINANCI ORIG ID:2272814169 DESC DATE:011626 CO ENTRY DESCR:PAYABLES SEC:PPD TRACE#:091000013510642 EED:260120 IND ID: IND NAME:ATTITUDE D LLC TRN: 0203510642TC",
+    "type_raw": "ACH_CREDIT",
+    "details_raw": "CREDIT",
+    "balance_raw": "182865.51",
+    "check_number": "",
+    "raw_row_index": 11
+  },
+  {
+    "stable_id": "debit_c193411d6d9bbb55",
+    "source": "debit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -125,
+    "description_raw": "ORIG CO NAME:Westlake Floorin ORIG ID:1352426469 DESC DATE:011626 CO ENTRY DESCR:PAYABLES SEC:CCD TRACE#:122232109987419 EED:260120 IND ID:100499447 IND NAME:ICAR Lifestyle 100499447 ,ICAR Lifestyle ,Aud it Fee 2025/12/01 00:00:00.000 DYNAMIC EFT TRN: 0209987419TC",
+    "description_norm": "ORIG CO NAME:Westlake Floorin ORIG ID:1352426469 DESC DATE:011626 CO ENTRY DESCR:PAYABLES SEC:CCD TRACE#:122232109987419 EED:260120 IND ID:100499447 IND NAME:ICAR Lifestyle 100499447 ,ICAR Lifestyle ,Aud it Fee 2025/12/01 00:00:00.000 DYNAMIC EFT TRN: 0209987419TC",
+    "type_raw": "ACH_DEBIT",
+    "details_raw": "DEBIT",
+    "balance_raw": "184485.47",
+    "check_number": "",
+    "raw_row_index": 3
+  },
+  {
+    "stable_id": "debit_b725dbda113c7ef9",
+    "source": "debit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -30,
+    "description_raw": "Zelle payment to ch JPM99c2lz0wb",
+    "description_norm": "Zelle payment to ch JPM99c2lz0wb",
+    "type_raw": "CHASE_TO_PARTNERFI",
+    "details_raw": "DEBIT",
+    "balance_raw": "187430.51",
+    "check_number": "",
+    "raw_row_index": 6
+  },
+  {
+    "stable_id": "debit_b1ab4c8d642cfb0b",
+    "source": "debit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -4025,
+    "description_raw": "Zelle payment to ch JPM99c2lygp5",
+    "description_norm": "Zelle payment to ch JPM99c2lygp5",
+    "type_raw": "CHASE_TO_PARTNERFI",
+    "details_raw": "DEBIT",
+    "balance_raw": "187460.51",
+    "check_number": "",
+    "raw_row_index": 7
+  },
+  {
+    "stable_id": "debit_aaea89548e83d131",
+    "source": "debit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -2670.04,
+    "description_raw": "ORIG CO NAME:Westlake Floorin ORIG ID:1352426469 DESC DATE:011626 CO ENTRY DESCR:PAYABLES SEC:CCD TRACE#:122232109987309 EED:260120 IND ID:100499447 IND NAME:ICAR Lifestyle 100499447 ,ICAR Lifestyle ,VIN :WBA63DA09SCS89112 ,2025-B M W-4 SE ERIES DYNAMIC EFT TRN: 0209987309TC",
+    "description_norm": "ORIG CO NAME:Westlake Floorin ORIG ID:1352426469 DESC DATE:011626 CO ENTRY DESCR:PAYABLES SEC:CCD TRACE#:122232109987309 EED:260120 IND ID:100499447 IND NAME:ICAR Lifestyle 100499447 ,ICAR Lifestyle ,VIN :WBA63DA09SCS89112 ,2025-B M W-4 SE ERIES DYNAMIC EFT TRN: 0209987309TC",
+    "type_raw": "ACH_DEBIT",
+    "details_raw": "DEBIT",
+    "balance_raw": "184610.47",
+    "check_number": "",
+    "raw_row_index": 4
+  },
+  {
+    "stable_id": "debit_937c5f0be526be7f",
+    "source": "debit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": 45216.37,
+    "description_raw": "DEPOSIT ID NUMBER 415223",
+    "description_norm": "DEPOSIT ID NUMBER 415223",
+    "type_raw": "DEPOSIT",
+    "details_raw": "DSLIP",
+    "balance_raw": "146402.95",
+    "check_number": "",
+    "raw_row_index": 12
+  },
+  {
+    "stable_id": "debit_8ab736b535439536",
+    "source": "debit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -150,
+    "description_raw": "Zelle payment to clean JPM99c2n69oy",
+    "description_norm": "Zelle payment to clean JPM99c2n69oy",
+    "type_raw": "CHASE_TO_PARTNERFI",
+    "details_raw": "DEBIT",
+    "balance_raw": "187280.51",
+    "check_number": "",
+    "raw_row_index": 5
+  },
+  {
+    "stable_id": "debit_7186a50d48018a6c",
+    "source": "debit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": 1000,
+    "description_raw": "Zelle payment from JIA JIE YU 27732755834",
+    "description_norm": "Zelle payment from JIA JIE YU 27732755834",
+    "type_raw": "QUICKPAY_CREDIT",
+    "details_raw": "CREDIT",
+    "balance_raw": "192165.51",
+    "check_number": "",
+    "raw_row_index": 9
+  },
+  {
+    "stable_id": "debit_50cfa52df27aa28c",
+    "source": "debit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -680,
+    "description_raw": "Zelle payment to fuhu JPM99c2e001p",
+    "description_norm": "Zelle payment to fuhu JPM99c2e001p",
+    "type_raw": "CHASE_TO_PARTNERFI",
+    "details_raw": "DEBIT",
+    "balance_raw": "191485.51",
+    "check_number": "",
+    "raw_row_index": 8
+  },
+  {
+    "stable_id": "debit_013f5be2bbf310d0",
+    "source": "debit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -30,
+    "description_raw": "Zelle payment to andra feng JPM99c2oqe2x",
+    "description_norm": "Zelle payment to andra feng JPM99c2oqe2x",
+    "type_raw": "CHASE_TO_PARTNERFI",
+    "details_raw": "DEBIT",
+    "balance_raw": "184455.47",
+    "check_number": "",
+    "raw_row_index": 2
+  },
+  {
+    "stable_id": "debit_cb5ebea923ef3129",
+    "source": "debit",
+    "date": "2026-01-16",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -150,
+    "description_raw": "Zelle payment to harv JPM99c25wmtp",
+    "description_norm": "Zelle payment to harv JPM99c25wmtp",
+    "type_raw": "CHASE_TO_PARTNERFI",
+    "details_raw": "DEBIT",
+    "balance_raw": "69189.37",
+    "check_number": "",
+    "raw_row_index": 17
+  },
+  {
+    "stable_id": "debit_b6ee2b1d0516af33",
+    "source": "debit",
+    "date": "2026-01-16",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": 1500,
+    "description_raw": "DEPOSIT ID NUMBER 415073",
+    "description_norm": "DEPOSIT ID NUMBER 415073",
+    "type_raw": "DEPOSIT",
+    "details_raw": "DSLIP",
+    "balance_raw": "69339.37",
+    "check_number": "",
+    "raw_row_index": 18
+  },
+  {
+    "stable_id": "debit_756dae19615309d6",
+    "source": "debit",
+    "date": "2026-01-16",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -15702.79,
+    "description_raw": "ONLINE DOMESTIC WIRE TRANSFER VIA: BK HAPOALIM NYC/026008866 A/C: LENDBUZZ FUNDING LLC BOSTON MA 02110 US REF: PAYOFF 625137-723170 GENYANG IMAD: 0116MMQFMP2K008000 TRN: 3021746016ES 01/16",
+    "description_norm": "ONLINE DOMESTIC WIRE TRANSFER VIA: BK HAPOALIM NYC/026008866 A/C: LENDBUZZ FUNDING LLC BOSTON MA 02110 US REF: PAYOFF 625137-723170 GENYANG IMAD: 0116MMQFMP2K008000 TRN: 3021746016ES 01/16",
+    "type_raw": "WIRE_OUTGOING",
+    "details_raw": "DEBIT",
+    "balance_raw": "53486.58",
+    "check_number": "",
+    "raw_row_index": 16
+  },
+  {
+    "stable_id": "debit_2b4272ac0ef7fcf5",
+    "source": "debit",
+    "date": "2026-01-16",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": 8180,
+    "description_raw": "REMOTE ONLINE DEPOSIT # 1",
+    "description_norm": "REMOTE ONLINE DEPOSIT # 1",
+    "type_raw": "CHECK_DEPOSIT",
+    "details_raw": "DSLIP",
+    "balance_raw": "67839.37",
+    "check_number": "1",
+    "raw_row_index": 19
+  },
+  {
+    "stable_id": "debit_223e238365851265",
+    "source": "debit",
+    "date": "2026-01-16",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -8300,
+    "description_raw": "CHECK 1124",
+    "description_norm": "CHECK 1124",
+    "type_raw": "CHECK_PAID",
+    "details_raw": "CHECK",
+    "balance_raw": "42686.58",
+    "check_number": "1124",
+    "raw_row_index": 14
+  },
+  {
+    "stable_id": "debit_14cff24b998cc29f",
+    "source": "debit",
+    "date": "2026-01-16",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -2500,
+    "description_raw": "Zelle payment to reliable cargo JPM99c299aoa",
+    "description_norm": "Zelle payment to reliable cargo JPM99c299aoa",
+    "type_raw": "CHASE_TO_PARTNERFI",
+    "details_raw": "DEBIT",
+    "balance_raw": "50986.58",
+    "check_number": "",
+    "raw_row_index": 15
+  },
+  {
+    "stable_id": "debit_f04010f6f89f46ad",
+    "source": "debit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -1969.84,
+    "description_raw": "ORIG CO NAME:NEXTGEAR PAYMENT ORIG ID:1260401907 DESC DATE:011426 CO ENTRY DESCR:PAYMENT SEC:CCD TRACE#:091000014598048 EED:260115 IND ID:155929 IND NAME:ICAR LIFESTYLE TRN: 0154598048TC",
+    "description_norm": "ORIG CO NAME:NEXTGEAR PAYMENT ORIG ID:1260401907 DESC DATE:011426 CO ENTRY DESCR:PAYMENT SEC:CCD TRACE#:091000014598048 EED:260115 IND ID:155929 IND NAME:ICAR LIFESTYLE TRN: 0154598048TC",
+    "type_raw": "ACH_DEBIT",
+    "details_raw": "DEBIT",
+    "balance_raw": "62222.82",
+    "check_number": "",
+    "raw_row_index": 25
+  },
+  {
+    "stable_id": "debit_e73b6e924d07ae42",
+    "source": "debit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -462.84,
+    "description_raw": "ORIG CO NAME:IRS ORIG ID:3387702000 DESC DATE:011526 CO ENTRY DESCR:USATAXPYMTSEC:CCD TRACE#:061036013545594 EED:260115 IND ID:270641501696174 IND NAME:ATTITUDE D LLC TRN: 0153545594TC",
+    "description_norm": "ORIG CO NAME:IRS ORIG ID:3387702000 DESC DATE:011526 CO ENTRY DESCR:USATAXPYMTSEC:CCD TRACE#:061036013545594 EED:260115 IND ID:270641501696174 IND NAME:ATTITUDE D LLC TRN: 0153545594TC",
+    "type_raw": "ACH_DEBIT",
+    "details_raw": "DEBIT",
+    "balance_raw": "61069.91",
+    "check_number": "",
+    "raw_row_index": 23
+  },
+  {
+    "stable_id": "debit_aa5fd82b32121fc1",
+    "source": "debit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -18.54,
+    "description_raw": "ORIG CO NAME:IRS ORIG ID:3387702000 DESC DATE:011526 CO ENTRY DESCR:USATAXPYMTSEC:CCD TRACE#:061036013054891 EED:260115 IND ID:270641545040394 IND NAME:ATTITUDE D LLC TRN: 0153054891TC",
+    "description_norm": "ORIG CO NAME:IRS ORIG ID:3387702000 DESC DATE:011526 CO ENTRY DESCR:USATAXPYMTSEC:CCD TRACE#:061036013054891 EED:260115 IND ID:270641545040394 IND NAME:ATTITUDE D LLC TRN: 0153054891TC",
+    "type_raw": "ACH_DEBIT",
+    "details_raw": "DEBIT",
+    "balance_raw": "60996.37",
+    "check_number": "",
+    "raw_row_index": 21
+  },
+  {
+    "stable_id": "debit_a3963a9c042e4d06",
+    "source": "debit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -55,
+    "description_raw": "ORIG CO NAME:MANHEIM ORIG ID:1581936030 DESC DATE: CO ENTRY DESCR:ACH PAYMNTSEC:CCD TRACE#:091000013986932 EED:260115 IND ID:ACH7013965 IND NAME:ICAR LIFESTYLE INV#97668008 \\5512120 W1N0G8DB3 NG09339722MERCEGLC TRN: 0153986932TC",
+    "description_norm": "ORIG CO NAME:MANHEIM ORIG ID:1581936030 DESC DATE: CO ENTRY DESCR:ACH PAYMNTSEC:CCD TRACE#:091000013986932 EED:260115 IND ID:ACH7013965 IND NAME:ICAR LIFESTYLE INV#97668008 \\5512120 W1N0G8DB3 NG09339722MERCEGLC TRN: 0153986932TC",
+    "type_raw": "ACH_DEBIT",
+    "details_raw": "DEBIT",
+    "balance_raw": "61014.91",
+    "check_number": "",
+    "raw_row_index": 22
+  },
+  {
+    "stable_id": "debit_8bf3dd7165848a49",
+    "source": "debit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": 3480.48,
+    "description_raw": "ORIG CO NAME:TSYS/TRANSFIRST ORIG ID:WFBTRANSF1 DESC DATE:260114 CO ENTRY DESCR:CR CD DEP SEC:CCD TRACE#:043305134445332 EED:260115 IND ID:543684556033333 IND NAME:ICAR LIFESTYLE 5436845560333337ICAR LIFESTYLE CR CD DEP 011526 TRN: 0154445332TC",
+    "description_norm": "ORIG CO NAME:TSYS/TRANSFIRST ORIG ID:WFBTRANSF1 DESC DATE:260114 CO ENTRY DESCR:CR CD DEP SEC:CCD TRACE#:043305134445332 EED:260115 IND ID:543684556033333 IND NAME:ICAR LIFESTYLE 5436845560333337ICAR LIFESTYLE CR CD DEP 011526 TRN: 0154445332TC",
+    "type_raw": "ACH_CREDIT",
+    "details_raw": "CREDIT",
+    "balance_raw": "68401.24",
+    "check_number": "",
+    "raw_row_index": 29
+  },
+  {
+    "stable_id": "debit_7560c5e631a3a047",
+    "source": "debit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -3329.58,
+    "description_raw": "ORIG CO NAME:IRS ORIG ID:3387702000 DESC DATE:011526 CO ENTRY DESCR:USATAXPYMTSEC:CCD TRACE#:061036013054889 EED:260115 IND ID:270641542842980 IND NAME:ATTITUDE D LLC TRN: 0153054889TC",
+    "description_norm": "ORIG CO NAME:IRS ORIG ID:3387702000 DESC DATE:011526 CO ENTRY DESCR:USATAXPYMTSEC:CCD TRACE#:061036013054889 EED:260115 IND ID:270641542842980 IND NAME:ATTITUDE D LLC TRN: 0153054889TC",
+    "type_raw": "ACH_DEBIT",
+    "details_raw": "DEBIT",
+    "balance_raw": "66671.66",
+    "check_number": "",
+    "raw_row_index": 27
+  },
+  {
+    "stable_id": "debit_6fb17a540d062d01",
+    "source": "debit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": 1600,
+    "description_raw": "Zelle payment from VNN CABINETS LLC BACc31zselof",
+    "description_norm": "Zelle payment from VNN CABINETS LLC BACc31zselof",
+    "type_raw": "PARTNERFI_TO_CHASE",
+    "details_raw": "CREDIT",
+    "balance_raw": "70001.24",
+    "check_number": "",
+    "raw_row_index": 28
+  },
+  {
+    "stable_id": "debit_66c011b373b9353b",
+    "source": "debit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -1337,
+    "description_raw": "Zelle payment to ch JPM99c23y4cy",
+    "description_norm": "Zelle payment to ch JPM99c23y4cy",
+    "type_raw": "CHASE_TO_PARTNERFI",
+    "details_raw": "DEBIT",
+    "balance_raw": "59659.37",
+    "check_number": "",
+    "raw_row_index": 20
+  },
+  {
+    "stable_id": "debit_4ccfbfbecf8e3e85",
+    "source": "debit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -690.07,
+    "description_raw": "ORIG CO NAME:EMPLOYMENT DEVEL ORIG ID:2282533055 DESC DATE:011426 CO ENTRY DESCR:EDD EFTPMTSEC:CCD TRACE#:042000014453954 EED:260115 IND ID:355493344 IND NAME:ICAR LIFESTYLE PAYMENT TRN: 0154453954TC",
+    "description_norm": "ORIG CO NAME:EMPLOYMENT DEVEL ORIG ID:2282533055 DESC DATE:011426 CO ENTRY DESCR:EDD EFTPMTSEC:CCD TRACE#:042000014453954 EED:260115 IND ID:355493344 IND NAME:ICAR LIFESTYLE PAYMENT TRN: 0154453954TC",
+    "type_raw": "ACH_DEBIT",
+    "details_raw": "DEBIT",
+    "balance_raw": "61532.75",
+    "check_number": "",
+    "raw_row_index": 24
+  },
+  {
+    "stable_id": "debit_4a0b7a487524715a",
+    "source": "debit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -2479,
+    "description_raw": "ORIG CO NAME:NEXTGEAR PAYMENT ORIG ID:1260401907 DESC DATE:011426 CO ENTRY DESCR:PAYMENT SEC:CCD TRACE#:091000014598047 EED:260115 IND ID:155929 IND NAME:ICAR LIFESTYLE TRN: 0154598047TC",
+    "description_norm": "ORIG CO NAME:NEXTGEAR PAYMENT ORIG ID:1260401907 DESC DATE:011426 CO ENTRY DESCR:PAYMENT SEC:CCD TRACE#:091000014598047 EED:260115 IND ID:155929 IND NAME:ICAR LIFESTYLE TRN: 0154598047TC",
+    "type_raw": "ACH_DEBIT",
+    "details_raw": "DEBIT",
+    "balance_raw": "64192.66",
+    "check_number": "",
+    "raw_row_index": 26
+  },
+  {
+    "stable_id": "debit_0d2ba101f6f647e1",
+    "source": "debit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": 21250,
+    "description_raw": "ORIG CO NAME:USAA AUTO LOAN ORIG ID:314074269 DESC DATE:260114 CO ENTRY DESCR:PAYMENT SEC:CCD TRACE#:314074263807698 EED:260115 IND ID:7226884803 IND NAME:iCar LifeStyle VIN JM3KKAHD5R1162270 Christopher H owe ACH TRN: 0153807698TC",
+    "description_norm": "ORIG CO NAME:USAA AUTO LOAN ORIG ID:314074269 DESC DATE:260114 CO ENTRY DESCR:PAYMENT SEC:CCD TRACE#:314074263807698 EED:260115 IND ID:7226884803 IND NAME:iCar LifeStyle VIN JM3KKAHD5R1162270 Christopher H owe ACH TRN: 0153807698TC",
+    "type_raw": "ACH_CREDIT",
+    "details_raw": "CREDIT",
+    "balance_raw": "64920.76",
+    "check_number": "",
+    "raw_row_index": 30
+  },
+  {
+    "stable_id": "debit_e4facb8328c9ebc3",
+    "source": "debit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": 34500,
+    "description_raw": "DEPOSIT ID NUMBER 415055",
+    "description_norm": "DEPOSIT ID NUMBER 415055",
+    "type_raw": "DEPOSIT",
+    "details_raw": "DSLIP",
+    "balance_raw": "161613.67",
+    "check_number": "",
+    "raw_row_index": 43
+  },
+  {
+    "stable_id": "debit_dbc9b37ef11cf3df",
+    "source": "debit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -5.06,
+    "description_raw": "SHIP SAVING 833-387-7396 CA 01/14",
+    "description_norm": "SHIP SAVING 833-387-7396 CA 01/14",
+    "type_raw": "DEBIT_CARD",
+    "details_raw": "DEBIT",
+    "balance_raw": "169408.61",
+    "check_number": "",
+    "raw_row_index": 41
+  },
+  {
+    "stable_id": "debit_ca25515c3027760a",
+    "source": "debit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -36432.73,
+    "description_raw": "ORIG CO NAME:NEXTGEAR PAYMENT ORIG ID:1260401907 DESC DATE:011326 CO ENTRY DESCR:PAYMENT SEC:CCD TRACE#:091000018874181 EED:260114 IND ID:155929 IND NAME:ICAR LIFESTYLE TRN: 0148874181TC",
+    "description_norm": "ORIG CO NAME:NEXTGEAR PAYMENT ORIG ID:1260401907 DESC DATE:011326 CO ENTRY DESCR:PAYMENT SEC:CCD TRACE#:091000018874181 EED:260114 IND ID:155929 IND NAME:ICAR LIFESTYLE TRN: 0148874181TC",
+    "type_raw": "ACH_DEBIT",
+    "details_raw": "DEBIT",
+    "balance_raw": "46820.76",
+    "check_number": "",
+    "raw_row_index": 34
+  },
+  {
+    "stable_id": "debit_bda50a8598e93f00",
+    "source": "debit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": 7800,
+    "description_raw": "ORIG CO NAME:NEXTGEAR FUNDING ORIG ID:1201990165 DESC DATE:011326 CO ENTRY DESCR:FUNDING SEC:CCD TRACE#:091000018855238 EED:260114 IND ID:155929 IND NAME:ICAR LIFESTYLE TRN: 0148855238TC",
+    "description_norm": "ORIG CO NAME:NEXTGEAR FUNDING ORIG ID:1201990165 DESC DATE:011326 CO ENTRY DESCR:FUNDING SEC:CCD TRACE#:091000018855238 EED:260114 IND ID:155929 IND NAME:ICAR LIFESTYLE TRN: 0148855238TC",
+    "type_raw": "ACH_CREDIT",
+    "details_raw": "CREDIT",
+    "balance_raw": "169413.67",
+    "check_number": "",
+    "raw_row_index": 42
+  },
+  {
+    "stable_id": "debit_bc64e7c2aac28e8f",
+    "source": "debit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -1600,
+    "description_raw": "Zelle payment to G11 JPM99c1zexdx",
+    "description_norm": "Zelle payment to G11 JPM99c1zexdx",
+    "type_raw": "CHASE_TO_PARTNERFI",
+    "details_raw": "DEBIT",
+    "balance_raw": "45220.76",
+    "check_number": "",
+    "raw_row_index": 33
+  },
+  {
+    "stable_id": "debit_ab5310ea48fabbb3",
+    "source": "debit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -1000,
+    "description_raw": "Zelle payment to PEIZHI 27689522764",
+    "description_norm": "Zelle payment to PEIZHI 27689522764",
+    "type_raw": "QUICKPAY_DEBIT",
+    "details_raw": "DEBIT",
+    "balance_raw": "168374.14",
+    "check_number": "",
+    "raw_row_index": 37
+  },
+  {
+    "stable_id": "debit_9d894808149fee62",
+    "source": "debit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -38857.7,
+    "description_raw": "ORIG CO NAME:NEXTGEAR PAYMENT ORIG ID:1260401907 DESC DATE:011326 CO ENTRY DESCR:PAYMENT SEC:CCD TRACE#:091000018398885 EED:260114 IND ID:155929 IND NAME:ICAR LIFESTYLE TRN: 0148398885TC",
+    "description_norm": "ORIG CO NAME:NEXTGEAR PAYMENT ORIG ID:1260401907 DESC DATE:011326 CO ENTRY DESCR:PAYMENT SEC:CCD TRACE#:091000018398885 EED:260114 IND ID:155929 IND NAME:ICAR LIFESTYLE TRN: 0148398885TC",
+    "type_raw": "ACH_DEBIT",
+    "details_raw": "DEBIT",
+    "balance_raw": "83253.49",
+    "check_number": "",
+    "raw_row_index": 35
+  },
+  {
+    "stable_id": "debit_63d51f5624806476",
+    "source": "debit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -1400,
+    "description_raw": "Zelle payment to suphasith JPM99c203hzj",
+    "description_norm": "Zelle payment to suphasith JPM99c203hzj",
+    "type_raw": "CHASE_TO_PARTNERFI",
+    "details_raw": "DEBIT",
+    "balance_raw": "43670.76",
+    "check_number": "",
+    "raw_row_index": 31
+  },
+  {
+    "stable_id": "debit_5510dff430276b1e",
+    "source": "debit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -46262.95,
+    "description_raw": "ORIG CO NAME:NEXTGEAR PAYMENT ORIG ID:1260401907 DESC DATE:011326 CO ENTRY DESCR:PAYMENT SEC:CCD TRACE#:091000018398886 EED:260114 IND ID:155929 IND NAME:ICAR LIFESTYLE TRN: 0148398886TC",
+    "description_norm": "ORIG CO NAME:NEXTGEAR PAYMENT ORIG ID:1260401907 DESC DATE:011326 CO ENTRY DESCR:PAYMENT SEC:CCD TRACE#:091000018398886 EED:260114 IND ID:155929 IND NAME:ICAR LIFESTYLE TRN: 0148398886TC",
+    "type_raw": "ACH_DEBIT",
+    "details_raw": "DEBIT",
+    "balance_raw": "122111.19",
+    "check_number": "",
+    "raw_row_index": 36
+  },
+  {
+    "stable_id": "debit_53d16c3df4666bd5",
+    "source": "debit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -11.49,
+    "description_raw": "SHIP SAVING 833-387-7396 CA 01/14",
+    "description_norm": "SHIP SAVING 833-387-7396 CA 01/14",
+    "type_raw": "DEBIT_CARD",
+    "details_raw": "DEBIT",
+    "balance_raw": "169374.14",
+    "check_number": "",
+    "raw_row_index": 38
+  },
+  {
+    "stable_id": "debit_53d16b3df4666a22",
+    "source": "debit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -11.49,
+    "description_raw": "SHIP SAVING 833-387-7396 CA 01/14",
+    "description_norm": "SHIP SAVING 833-387-7396 CA 01/14",
+    "type_raw": "DEBIT_CARD",
+    "details_raw": "DEBIT",
+    "balance_raw": "169385.63",
+    "check_number": "",
+    "raw_row_index": 39
+  },
+  {
+    "stable_id": "debit_53d16a3df466686f",
+    "source": "debit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -11.49,
+    "description_raw": "SHIP SAVING 833-387-7396 CA 01/14",
+    "description_norm": "SHIP SAVING 833-387-7396 CA 01/14",
+    "type_raw": "DEBIT_CARD",
+    "details_raw": "DEBIT",
+    "balance_raw": "169397.12",
+    "check_number": "",
+    "raw_row_index": 40
+  },
+  {
+    "stable_id": "debit_42174c60647fed62",
+    "source": "debit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": -150,
+    "description_raw": "Zelle payment to ch JPM99c1zfhvq",
+    "description_norm": "Zelle payment to ch JPM99c1zfhvq",
+    "type_raw": "CHASE_TO_PARTNERFI",
+    "details_raw": "DEBIT",
+    "balance_raw": "45070.76",
+    "check_number": "",
+    "raw_row_index": 32
+  },
+  {
+    "stable_id": "debit_edc6b660cc3d7875",
     "source": "debit",
     "date": "2026-01-13",
     "month": "2026-01",
     "account": "CHASE_BUSINESS",
     "card_member": null,
-    "amount": -18000,
-    "description_raw": "ONLINE DOMESTIC WIRE TRANSFER VIA: CITIBANK WEST FSB/321171184 A/C: CHANG GAO CONCORD CA 94519 US REF: 2018 CRV PAYMENT TRN: 3073636013ES 01/13",
-    "description_norm": "ONLINE DOMESTIC WIRE TRANSFER VIA: CITIBANK WEST FSB/321171184 A/C: CHANG GAO CONCORD CA 94519 US REF: 2018 CRV PAYMENT TRN: 3073636013ES 01/13",
-    "type_raw": "WIRE_OUTGOING",
-    "details_raw": "DEBIT",
-    "balance_raw": " ",
+    "amount": 47382.96,
+    "description_raw": "ORIG CO NAME:WESTLAKE FINANCI ORIG ID:2272814169 DESC DATE:011226 CO ENTRY DESCR:PAYABLES SEC:PPD TRACE#:091000010376345 EED:260113 IND ID: IND NAME:ATTITUDE D LLC TRN: 0130376345TC",
+    "description_norm": "ORIG CO NAME:WESTLAKE FINANCI ORIG ID:2272814169 DESC DATE:011226 CO ENTRY DESCR:PAYABLES SEC:PPD TRACE#:091000010376345 EED:260113 IND ID: IND NAME:ATTITUDE D LLC TRN: 0130376345TC",
+    "type_raw": "ACH_CREDIT",
+    "details_raw": "CREDIT",
+    "balance_raw": "85559.63",
     "check_number": "",
-    "raw_row_index": 10
+    "raw_row_index": 50
   },
   {
-    "stable_id": "debit_a765b5f1f46e5aa7",
+    "stable_id": "debit_edbbc0694cc7e9d7",
+    "source": "debit",
+    "date": "2026-01-13",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": 41655,
+    "description_raw": "ORIG CO NAME:Perimeter Billia ORIG ID:STRIPE6088 DESC DATE: CO ENTRY DESCR:SHOPIFY SEC:CCD TRACE#:242071750949605 EED:260113 IND ID:X7F2J5L3U5W8 IND NAME:ATTITUDE D LLC STRIPE6088 TRN: 0130949605TC",
+    "description_norm": "ORIG CO NAME:Perimeter Billia ORIG ID:STRIPE6088 DESC DATE: CO ENTRY DESCR:SHOPIFY SEC:CCD TRACE#:242071750949605 EED:260113 IND ID:X7F2J5L3U5W8 IND NAME:ATTITUDE D LLC STRIPE6088 TRN: 0130949605TC",
+    "type_raw": "ACH_CREDIT",
+    "details_raw": "CREDIT",
+    "balance_raw": "127214.63",
+    "check_number": "",
+    "raw_row_index": 49
+  },
+  {
+    "stable_id": "debit_c37e4b4af9d2bac0",
     "source": "debit",
     "date": "2026-01-13",
     "month": "2026-01",
     "account": "CHASE_BUSINESS",
     "card_member": null,
     "amount": -1948.64,
-    "description_raw": "ORIG CO NAME:Westlake Floorin CO ENTRY DESCR:PAYABLES SEC:CCD IND ID:100499447 ORIG ID:1352426469",
-    "description_norm": "ORIG CO NAME:Westlake Floorin CO ENTRY DESCR:PAYABLES SEC:CCD IND ID:100499447 ORIG ID:1352426469",
+    "description_raw": "ORIG CO NAME:Westlake Floorin ORIG ID:1352426469 DESC DATE:011226 CO ENTRY DESCR:PAYABLES SEC:CCD TRACE#:122232104633841 EED:260113 IND ID:100499447 IND NAME:ICAR Lifestyle 100499447 ,ICAR Lifestyle ,VIN :JM3KKAHD5R1162270 ,2024-MAZDA-CX-9 90 HYBRID DYNAMIC EFT TRN: 0134633841TC",
+    "description_norm": "ORIG CO NAME:Westlake Floorin ORIG ID:1352426469 DESC DATE:011226 CO ENTRY DESCR:PAYABLES SEC:CCD TRACE#:122232104633841 EED:260113 IND ID:100499447 IND NAME:ICAR Lifestyle 100499447 ,ICAR Lifestyle ,VIN :JM3KKAHD5R1162270 ,2024-MAZDA-CX-9 90 HYBRID DYNAMIC EFT TRN: 0134633841TC",
     "type_raw": "ACH_DEBIT",
     "details_raw": "DEBIT",
-    "balance_raw": " ",
+    "balance_raw": "144367.67",
     "check_number": "",
-    "raw_row_index": 6
+    "raw_row_index": 46
   },
   {
-    "stable_id": "debit_9c30dcc3306632df",
+    "stable_id": "debit_adcbb067641c6a6d",
     "source": "debit",
     "date": "2026-01-13",
     "month": "2026-01",
     "account": "CHASE_BUSINESS",
     "card_member": null,
-    "amount": -16790,
-    "description_raw": "WITHDRAWAL",
-    "description_norm": "WITHDRAWAL",
-    "type_raw": "MISC_DEBIT",
+    "amount": -18000,
+    "description_raw": "ONLINE DOMESTIC WIRE TRANSFER VIA: CITIBANK WEST FSB/321171184 A/C: CHANG GAO CONCORD CA 94519 US REF: 2018 CRV PAYMENT IMAD: 0113MMQFMP2N005942 TRN: 3073636013ES 01/13",
+    "description_norm": "ONLINE DOMESTIC WIRE TRANSFER VIA: CITIBANK WEST FSB/321171184 A/C: CHANG GAO CONCORD CA 94519 US REF: 2018 CRV PAYMENT IMAD: 0113MMQFMP2N005942 TRN: 3073636013ES 01/13",
+    "type_raw": "WIRE_OUTGOING",
     "details_raw": "DEBIT",
-    "balance_raw": " ",
+    "balance_raw": "146316.31",
     "check_number": "",
-    "raw_row_index": 5
+    "raw_row_index": 47
+  },
+  {
+    "stable_id": "debit_a922469c992ec136",
+    "source": "debit",
+    "date": "2026-01-13",
+    "month": "2026-01",
+    "account": "CHASE_BUSINESS",
+    "card_member": null,
+    "amount": 37101.68,
+    "description_raw": "ORIG CO NAME:WESTLAKE FINANCI ORIG ID:2272814169 DESC DATE:011226 CO ENTRY DESCR:PAYABLES SEC:PPD TRACE#:091000010376343 EED:260113 IND ID: IND NAME:ATTITUDE D LLC TRN: 0130376343TC",
+    "description_norm": "ORIG CO NAME:WESTLAKE FINANCI ORIG ID:2272814169 DESC DATE:011226 CO ENTRY DESCR:PAYABLES SEC:PPD TRACE#:091000010376343 EED:260113 IND ID: IND NAME:ATTITUDE D LLC TRN: 0130376343TC",
+    "type_raw": "ACH_CREDIT",
+    "details_raw": "CREDIT",
+    "balance_raw": "164316.31",
+    "check_number": "",
+    "raw_row_index": 48
   },
   {
     "stable_id": "debit_9456fd1d55925cae",
@@ -55,125 +791,29 @@
     "account": "CHASE_BUSINESS",
     "card_member": null,
     "amount": -464,
-    "description_raw": "ZELLE PAYMENT TO CH JPM99C1WB8HS",
-    "description_norm": "ZELLE PAYMENT TO CH JPM99C1WB8HS",
+    "description_raw": "Zelle payment to ch JPM99c1wb8hs",
+    "description_norm": "Zelle payment to ch JPM99c1wb8hs",
     "type_raw": "CHASE_TO_PARTNERFI",
     "details_raw": "DEBIT",
-    "balance_raw": " ",
+    "balance_raw": "127113.67",
     "check_number": "",
-    "raw_row_index": 3
+    "raw_row_index": 44
   },
   {
-    "stable_id": "debit_60ffec23ae8c6bc8",
+    "stable_id": "debit_1e6ffae1fdfce23b",
     "source": "debit",
     "date": "2026-01-13",
     "month": "2026-01",
     "account": "CHASE_BUSINESS",
     "card_member": null,
-    "amount": 47382.96,
-    "description_raw": "ORIG CO NAME:WESTLAKE FINANCI CO ENTRY DESCR:PAYABLES SEC:PPD ORIG ID:2272814169",
-    "description_norm": "ORIG CO NAME:WESTLAKE FINANCI CO ENTRY DESCR:PAYABLES SEC:PPD ORIG ID:2272814169",
-    "type_raw": "ACH_CREDIT",
-    "details_raw": "CREDIT",
-    "balance_raw": " ",
-    "check_number": "",
-    "raw_row_index": 9
-  },
-  {
-    "stable_id": "debit_5607cd4e160513a2",
-    "source": "debit",
-    "date": "2026-01-13",
-    "month": "2026-01",
-    "account": "CHASE_BUSINESS",
-    "card_member": null,
-    "amount": -5.06,
-    "description_raw": "POS DEBIT SHIP SAVING CITY OF INDU CA",
-    "description_norm": "POS DEBIT SHIP SAVING CITY OF INDU CA",
+    "amount": -16790,
+    "description_raw": "WITHDRAWAL 01/13",
+    "description_norm": "WITHDRAWAL 01/13",
     "type_raw": "MISC_DEBIT",
     "details_raw": "DEBIT",
-    "balance_raw": " ",
+    "balance_raw": "127577.67",
     "check_number": "",
-    "raw_row_index": 4
-  },
-  {
-    "stable_id": "debit_17dc80b9a16d60a4",
-    "source": "debit",
-    "date": "2026-01-13",
-    "month": "2026-01",
-    "account": "CHASE_BUSINESS",
-    "card_member": null,
-    "amount": 41655,
-    "description_raw": "ORIG CO NAME:Perimeter Billia CO ENTRY DESCR:SHOPIFY SEC:CCD IND ID:X7F2J5L3U5W8 ORIG ID:STRIPE6088",
-    "description_norm": "ORIG CO NAME:Perimeter Billia CO ENTRY DESCR:SHOPIFY SEC:CCD IND ID:X7F2J5L3U5W8 ORIG ID:STRIPE6088",
-    "type_raw": "ACH_CREDIT",
-    "details_raw": "CREDIT",
-    "balance_raw": " ",
-    "check_number": "",
-    "raw_row_index": 8
-  },
-  {
-    "stable_id": "debit_0ea883a2e1b0fc35",
-    "source": "debit",
-    "date": "2026-01-13",
-    "month": "2026-01",
-    "account": "CHASE_BUSINESS",
-    "card_member": null,
-    "amount": 37101.68,
-    "description_raw": "ORIG CO NAME:WESTLAKE FINANCI CO ENTRY DESCR:PAYABLES SEC:PPD ORIG ID:2272814169",
-    "description_norm": "ORIG CO NAME:WESTLAKE FINANCI CO ENTRY DESCR:PAYABLES SEC:PPD ORIG ID:2272814169",
-    "type_raw": "ACH_CREDIT",
-    "details_raw": "CREDIT",
-    "balance_raw": " ",
-    "check_number": "",
-    "raw_row_index": 7
-  },
-  {
-    "stable_id": "debit_06e7648dff80fd31",
-    "source": "debit",
-    "date": "2026-01-13",
-    "month": "2026-01",
-    "account": "CHASE_BUSINESS",
-    "card_member": null,
-    "amount": -11.49,
-    "description_raw": "POS DEBIT SHIP SAVING CITY OF INDU CA",
-    "description_norm": "POS DEBIT SHIP SAVING CITY OF INDU CA",
-    "type_raw": "MISC_DEBIT",
-    "details_raw": "DEBIT",
-    "balance_raw": " ",
-    "check_number": "",
-    "raw_row_index": 1
-  },
-  {
-    "stable_id": "debit_06e7638dff80fb7e",
-    "source": "debit",
-    "date": "2026-01-13",
-    "month": "2026-01",
-    "account": "CHASE_BUSINESS",
-    "card_member": null,
-    "amount": -11.49,
-    "description_raw": "POS DEBIT SHIP SAVING CITY OF INDU CA",
-    "description_norm": "POS DEBIT SHIP SAVING CITY OF INDU CA",
-    "type_raw": "MISC_DEBIT",
-    "details_raw": "DEBIT",
-    "balance_raw": " ",
-    "check_number": "",
-    "raw_row_index": 0
-  },
-  {
-    "stable_id": "debit_06e7618dff80f818",
-    "source": "debit",
-    "date": "2026-01-13",
-    "month": "2026-01",
-    "account": "CHASE_BUSINESS",
-    "card_member": null,
-    "amount": -11.49,
-    "description_raw": "POS DEBIT SHIP SAVING CITY OF INDU CA",
-    "description_norm": "POS DEBIT SHIP SAVING CITY OF INDU CA",
-    "type_raw": "MISC_DEBIT",
-    "details_raw": "DEBIT",
-    "balance_raw": " ",
-    "check_number": "",
-    "raw_row_index": 2
+    "raw_row_index": 45
   },
   {
     "stable_id": "debit_eb82e650597ba82c",
@@ -189,7 +829,7 @@
     "details_raw": "DSLIP",
     "balance_raw": "89888.05",
     "check_number": "",
-    "raw_row_index": 20
+    "raw_row_index": 60
   },
   {
     "stable_id": "debit_d445099d0416b8f7",
@@ -205,7 +845,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "73992.79",
     "check_number": "",
-    "raw_row_index": 18
+    "raw_row_index": 58
   },
   {
     "stable_id": "debit_caea160934fed87b",
@@ -221,7 +861,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "50736.67",
     "check_number": "",
-    "raw_row_index": 14
+    "raw_row_index": 54
   },
   {
     "stable_id": "debit_be52945a1bd3be18",
@@ -237,7 +877,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "90248.15",
     "check_number": "",
-    "raw_row_index": 19
+    "raw_row_index": 59
   },
   {
     "stable_id": "debit_9ef67921b8fed849",
@@ -253,7 +893,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "50476.67",
     "check_number": "",
-    "raw_row_index": 12
+    "raw_row_index": 52
   },
   {
     "stable_id": "debit_7d2908afc6b12c3c",
@@ -269,7 +909,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "71499.16",
     "check_number": "",
-    "raw_row_index": 16
+    "raw_row_index": 56
   },
   {
     "stable_id": "debit_72fee6de4494c4d9",
@@ -285,7 +925,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "50596.67",
     "check_number": "",
-    "raw_row_index": 13
+    "raw_row_index": 53
   },
   {
     "stable_id": "debit_56ea91efabb3c9a9",
@@ -301,7 +941,7 @@
     "details_raw": "CHECK",
     "balance_raw": "38176.67",
     "check_number": "1123",
-    "raw_row_index": 11
+    "raw_row_index": 51
   },
   {
     "stable_id": "debit_4fbf65160a84be54",
@@ -317,7 +957,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "71629.16",
     "check_number": "",
-    "raw_row_index": 17
+    "raw_row_index": 57
   },
   {
     "stable_id": "debit_38a4c5e3e1d7e42f",
@@ -333,7 +973,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "58236.67",
     "check_number": "",
-    "raw_row_index": 15
+    "raw_row_index": 55
   },
   {
     "stable_id": "debit_a94282e25f9685e5",
@@ -349,7 +989,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "102893.75",
     "check_number": "",
-    "raw_row_index": 25
+    "raw_row_index": 65
   },
   {
     "stable_id": "debit_5009d6f3b915c103",
@@ -365,7 +1005,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "102803.75",
     "check_number": "",
-    "raw_row_index": 24
+    "raw_row_index": 64
   },
   {
     "stable_id": "debit_26ef8655eb626eec",
@@ -381,7 +1021,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "101553.75",
     "check_number": "",
-    "raw_row_index": 22
+    "raw_row_index": 62
   },
   {
     "stable_id": "debit_235e9c972abb35d8",
@@ -397,7 +1037,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "101803.75",
     "check_number": "",
-    "raw_row_index": 23
+    "raw_row_index": 63
   },
   {
     "stable_id": "debit_14e498601a660609",
@@ -413,7 +1053,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "70553.75",
     "check_number": "",
-    "raw_row_index": 21
+    "raw_row_index": 61
   },
   {
     "stable_id": "debit_0bbb2c602b2cb320",
@@ -429,7 +1069,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "102883.75",
     "check_number": "",
-    "raw_row_index": 26
+    "raw_row_index": 66
   },
   {
     "stable_id": "debit_9eac9d034bac5d00",
@@ -445,7 +1085,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "87015.03",
     "check_number": "",
-    "raw_row_index": 28
+    "raw_row_index": 68
   },
   {
     "stable_id": "debit_86c54845023a6f15",
@@ -461,7 +1101,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "85658.19",
     "check_number": "",
-    "raw_row_index": 27
+    "raw_row_index": 67
   },
   {
     "stable_id": "debit_f0bddb29d3bdc763",
@@ -477,7 +1117,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "89649.37",
     "check_number": "",
-    "raw_row_index": 31
+    "raw_row_index": 71
   },
   {
     "stable_id": "debit_bc305d7068b10a06",
@@ -493,7 +1133,7 @@
     "details_raw": "DSLIP",
     "balance_raw": "88626.82",
     "check_number": "1",
-    "raw_row_index": 33
+    "raw_row_index": 73
   },
   {
     "stable_id": "debit_5ec52757fa063d8c",
@@ -509,7 +1149,7 @@
     "details_raw": "CHECK",
     "balance_raw": "88263.03",
     "check_number": "1122",
-    "raw_row_index": 29
+    "raw_row_index": 69
   },
   {
     "stable_id": "debit_25474ad6717a5c44",
@@ -525,7 +1165,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "89320.37",
     "check_number": "",
-    "raw_row_index": 30
+    "raw_row_index": 70
   },
   {
     "stable_id": "debit_0620b1351bcd9393",
@@ -541,7 +1181,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "127174.75",
     "check_number": "",
-    "raw_row_index": 32
+    "raw_row_index": 72
   },
   {
     "stable_id": "debit_f5928697623d3879",
@@ -557,7 +1197,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "96050.68",
     "check_number": "",
-    "raw_row_index": 41
+    "raw_row_index": 81
   },
   {
     "stable_id": "debit_f5928497623d3513",
@@ -573,7 +1213,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "96027.70",
     "check_number": "",
-    "raw_row_index": 39
+    "raw_row_index": 79
   },
   {
     "stable_id": "debit_f5928397623d3360",
@@ -589,7 +1229,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "96039.19",
     "check_number": "",
-    "raw_row_index": 40
+    "raw_row_index": 80
   },
   {
     "stable_id": "debit_f05db8d53a3d4802",
@@ -605,7 +1245,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "96093.66",
     "check_number": "",
-    "raw_row_index": 43
+    "raw_row_index": 83
   },
   {
     "stable_id": "debit_ea89c2ade7a9044e",
@@ -621,7 +1261,7 @@
     "details_raw": "DSLIP",
     "balance_raw": "38109.25",
     "check_number": "",
-    "raw_row_index": 46
+    "raw_row_index": 86
   },
   {
     "stable_id": "debit_e216f4c10c8a70b5",
@@ -637,7 +1277,7 @@
     "details_raw": "CHECK",
     "balance_raw": "70380.82",
     "check_number": "1116",
-    "raw_row_index": 35
+    "raw_row_index": 75
   },
   {
     "stable_id": "debit_d807f84b97006e33",
@@ -653,7 +1293,7 @@
     "details_raw": "CHECK",
     "balance_raw": "70326.82",
     "check_number": "1121",
-    "raw_row_index": 34
+    "raw_row_index": 74
   },
   {
     "stable_id": "debit_d47cea14598e1531",
@@ -669,7 +1309,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "73639.78",
     "check_number": "",
-    "raw_row_index": 36
+    "raw_row_index": 76
   },
   {
     "stable_id": "debit_a2a0a3c7f3732085",
@@ -685,7 +1325,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "71386.25",
     "check_number": "",
-    "raw_row_index": 45
+    "raw_row_index": 85
   },
   {
     "stable_id": "debit_96791232bc6e07b1",
@@ -701,7 +1341,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "92093.66",
     "check_number": "",
-    "raw_row_index": 44
+    "raw_row_index": 84
   },
   {
     "stable_id": "debit_8a5af76a06c75c3f",
@@ -717,7 +1357,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "91139.78",
     "check_number": "",
-    "raw_row_index": 37
+    "raw_row_index": 77
   },
   {
     "stable_id": "debit_7c954a88459f53fd",
@@ -733,7 +1373,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "96062.17",
     "check_number": "",
-    "raw_row_index": 42
+    "raw_row_index": 82
   },
   {
     "stable_id": "debit_19797b08e8aef310",
@@ -749,7 +1389,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "93740.07",
     "check_number": "",
-    "raw_row_index": 38
+    "raw_row_index": 78
   },
   {
     "stable_id": "debit_f910fc68a22e45d8",
@@ -765,7 +1405,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "139209.20",
     "check_number": "",
-    "raw_row_index": 57
+    "raw_row_index": 97
   },
   {
     "stable_id": "debit_f832596b82dedf02",
@@ -781,7 +1421,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "36480.53",
     "check_number": "",
-    "raw_row_index": 49
+    "raw_row_index": 89
   },
   {
     "stable_id": "debit_e630b4113f5de68f",
@@ -797,7 +1437,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "140209.20",
     "check_number": "",
-    "raw_row_index": 56
+    "raw_row_index": 96
   },
   {
     "stable_id": "debit_e3d5e4ee11d66e33",
@@ -813,7 +1453,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "68048.32",
     "check_number": "",
-    "raw_row_index": 50
+    "raw_row_index": 90
   },
   {
     "stable_id": "debit_ccb5cb583c28ee87",
@@ -829,7 +1469,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "8131.08",
     "check_number": "",
-    "raw_row_index": 48
+    "raw_row_index": 88
   },
   {
     "stable_id": "debit_b57b1120a9b4110b",
@@ -845,7 +1485,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "131559.20",
     "check_number": "",
-    "raw_row_index": 59
+    "raw_row_index": 99
   },
   {
     "stable_id": "debit_82b63c636c632e7e",
@@ -861,7 +1501,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "70204.56",
     "check_number": "",
-    "raw_row_index": 61
+    "raw_row_index": 101
   },
   {
     "stable_id": "debit_738455e5950eba42",
@@ -877,7 +1517,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "101740.24",
     "check_number": "",
-    "raw_row_index": 51
+    "raw_row_index": 91
   },
   {
     "stable_id": "debit_526ef80a975d91b2",
@@ -893,7 +1533,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "136709.20",
     "check_number": "",
-    "raw_row_index": 58
+    "raw_row_index": 98
   },
   {
     "stable_id": "debit_28993d8e4406ff11",
@@ -909,7 +1549,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "15604.56",
     "check_number": "",
-    "raw_row_index": 62
+    "raw_row_index": 102
   },
   {
     "stable_id": "debit_274dcdc4d8fb6acd",
@@ -925,7 +1565,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "140186.22",
     "check_number": "",
-    "raw_row_index": 54
+    "raw_row_index": 94
   },
   {
     "stable_id": "debit_274dccc4d8fb691a",
@@ -941,7 +1581,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "140197.71",
     "check_number": "",
-    "raw_row_index": 55
+    "raw_row_index": 95
   },
   {
     "stable_id": "debit_274dcbc4d8fb6767",
@@ -957,7 +1597,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "140163.24",
     "check_number": "",
-    "raw_row_index": 52
+    "raw_row_index": 92
   },
   {
     "stable_id": "debit_274dcac4d8fb65b4",
@@ -973,7 +1613,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "140174.73",
     "check_number": "",
-    "raw_row_index": 53
+    "raw_row_index": 93
   },
   {
     "stable_id": "debit_25eff6abad0a916d",
@@ -989,7 +1629,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "110204.56",
     "check_number": "",
-    "raw_row_index": 60
+    "raw_row_index": 100
   },
   {
     "stable_id": "debit_0dba454b3cd571c1",
@@ -1005,7 +1645,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "6109.25",
     "check_number": "",
-    "raw_row_index": 47
+    "raw_row_index": 87
   },
   {
     "stable_id": "debit_f8394e83d1ffb463",
@@ -1021,7 +1661,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "10604.56",
     "check_number": "",
-    "raw_row_index": 63
+    "raw_row_index": 103
   },
   {
     "stable_id": "debit_d9ee147d16a0c288",
@@ -1037,7 +1677,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "10852.56",
     "check_number": "",
-    "raw_row_index": 64
+    "raw_row_index": 104
   },
   {
     "stable_id": "debit_a64a7d77524a43ed",
@@ -1053,7 +1693,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "118180.94",
     "check_number": "",
-    "raw_row_index": 71
+    "raw_row_index": 111
   },
   {
     "stable_id": "debit_930e35b133fde6ca",
@@ -1069,7 +1709,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "125080.94",
     "check_number": "",
-    "raw_row_index": 67
+    "raw_row_index": 107
   },
   {
     "stable_id": "debit_8ca91268e64117bc",
@@ -1085,7 +1725,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "123180.94",
     "check_number": "",
-    "raw_row_index": 70
+    "raw_row_index": 110
   },
   {
     "stable_id": "debit_32fe08a1851ff3ab",
@@ -1101,7 +1741,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "55112.22",
     "check_number": "",
-    "raw_row_index": 66
+    "raw_row_index": 106
   },
   {
     "stable_id": "debit_1e5a72f46f08013e",
@@ -1117,7 +1757,7 @@
     "details_raw": "DEBIT",
     "balance_raw": "13643.59",
     "check_number": "",
-    "raw_row_index": 65
+    "raw_row_index": 105
   },
   {
     "stable_id": "debit_1b431e37df45b000",
@@ -1133,7 +1773,7 @@
     "details_raw": "CREDIT",
     "balance_raw": "127180.94",
     "check_number": "",
-    "raw_row_index": 69
+    "raw_row_index": 109
   },
   {
     "stable_id": "debit_12d37a110bf73654",
@@ -1149,6 +1789,6 @@
     "details_raw": "CREDIT",
     "balance_raw": "127580.94",
     "check_number": "",
-    "raw_row_index": 68
+    "raw_row_index": 108
   }
 ]

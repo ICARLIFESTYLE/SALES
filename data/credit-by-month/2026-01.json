@@ -2,6 +2,435 @@
   {
     "row_id": "credit_row_00000001",
     "source": "credit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "TESLA INC SUPERCHARGPALO ALTO",
+    "description": "TESLA INC SUPERCHARGPALO ALTO",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 20.19,
+    "stable_id": "credit_7ded3a2da758729a"
+  },
+  {
+    "row_id": "credit_row_00000000",
+    "source": "credit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "ARCADIA SMOG TEST ONArcadia             CA",
+    "description": "ARCADIA SMOG TEST ONArcadia CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 69.75,
+    "stable_id": "credit_513bfb705255a75c"
+  },
+  {
+    "row_id": "credit_row_00000005",
+    "source": "credit",
+    "date": "2026-01-19",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "ARCADIA SMOG TEST ONArcadia             CA",
+    "description": "ARCADIA SMOG TEST ONArcadia CA",
+    "card_member": "XINTING PENG",
+    "account": "-71056",
+    "amount": 69.75,
+    "stable_id": "credit_326577fe173d3bb8"
+  },
+  {
+    "row_id": "credit_row_00000002",
+    "source": "credit",
+    "date": "2026-01-19",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "AMAZON MARKEPLACE NA PA",
+    "description": "AMAZON MARKEPLACE NA PA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 9.67,
+    "stable_id": "credit_167b57eab6647592"
+  },
+  {
+    "row_id": "credit_row_00000004",
+    "source": "credit",
+    "date": "2026-01-19",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "ARCADIA SMOG TEST ONArcadia             CA",
+    "description": "ARCADIA SMOG TEST ONArcadia CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 69.75,
+    "stable_id": "credit_0f901d7628038110"
+  },
+  {
+    "row_id": "credit_row_00000003",
+    "source": "credit",
+    "date": "2026-01-19",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "AMAZON MARKEPLACE NA PA",
+    "description": "AMAZON MARKEPLACE NA PA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 484.92,
+    "stable_id": "credit_0e4d416564a3b25f"
+  },
+  {
+    "row_id": "credit_row_00000007",
+    "source": "credit",
+    "date": "2026-01-17",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "UBER",
+    "description": "UBER",
+    "card_member": "ICAR LIFESTYLE R",
+    "account": "-72013",
+    "amount": 100.08,
+    "stable_id": "credit_53c6544774e4c1a6"
+  },
+  {
+    "row_id": "credit_row_00000006",
+    "source": "credit",
+    "date": "2026-01-17",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "TESLA INC SUPERCHARGPALO ALTO",
+    "description": "TESLA INC SUPERCHARGPALO ALTO",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 25.88,
+    "stable_id": "credit_33974366cd7b2dcf"
+  },
+  {
+    "row_id": "credit_row_00000008",
+    "source": "credit",
+    "date": "2026-01-16",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "CHEVRON 0092407/CHEVARCADIA             CA",
+    "description": "CHEVRON 0092407/CHEVARCADIA CA",
+    "card_member": "XINTING PENG",
+    "account": "-71056",
+    "amount": 45.58,
+    "stable_id": "credit_b0baa4014bf71d0c"
+  },
+  {
+    "row_id": "credit_row_00000009",
+    "source": "credit",
+    "date": "2026-01-16",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "FD *CA DMV 509 *SVC PASADENA            CA",
+    "description": "FD *CA DMV 509 *SVC PASADENA CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 0.59,
+    "stable_id": "credit_abe3661058061e33"
+  },
+  {
+    "row_id": "credit_row_00000011",
+    "source": "credit",
+    "date": "2026-01-16",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "WILLY'S TIRES 572935JURUPA VALLEY       CA",
+    "description": "WILLY'S TIRES 572935JURUPA VALLEY CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 90,
+    "stable_id": "credit_64bc4b133314ef3c"
+  },
+  {
+    "row_id": "credit_row_00000010",
+    "source": "credit",
+    "date": "2026-01-16",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "FD *CA DMV 509 509  PASADENA            CA",
+    "description": "FD *CA DMV 509 509 PASADENA CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 28,
+    "stable_id": "credit_223835877ee60bd3"
+  },
+  {
+    "row_id": "credit_row_00000013",
+    "source": "credit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "FASCHING'S CAR WASH ARCADIA             CA",
+    "description": "FASCHING'S CAR WASH ARCADIA CA",
+    "card_member": "TINGTO BI",
+    "account": "-71049",
+    "amount": 57.9,
+    "stable_id": "credit_e539d175b548a151"
+  },
+  {
+    "row_id": "credit_row_00000015",
+    "source": "credit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "SHIP SAVING         833-387-7396        CA",
+    "description": "SHIP SAVING 833-387-7396 CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 11.49,
+    "stable_id": "credit_bd7ae519402febbb"
+  },
+  {
+    "row_id": "credit_row_00000017",
+    "source": "credit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "UBER",
+    "description": "UBER",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 5.8,
+    "stable_id": "credit_8851f023ffb07974"
+  },
+  {
+    "row_id": "credit_row_00000016",
+    "source": "credit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "STARBUCKS           800-782-7282        WA",
+    "description": "STARBUCKS 800-782-7282 WA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 25,
+    "stable_id": "credit_6da490542104536a"
+  },
+  {
+    "row_id": "credit_row_00000012",
+    "source": "credit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "FASCHING'S CAR WASH ARCADIA             CA",
+    "description": "FASCHING'S CAR WASH ARCADIA CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 28.95,
+    "stable_id": "credit_5a216534cf4c2e17"
+  },
+  {
+    "row_id": "credit_row_00000014",
+    "source": "credit",
+    "date": "2026-01-15",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "LADOT METER PARKING LOS ANGELES         CA",
+    "description": "LADOT METER PARKING LOS ANGELES CA",
+    "card_member": "XINTING PENG",
+    "account": "-71056",
+    "amount": 0.5,
+    "stable_id": "credit_4a6121a27d6c51f1"
+  },
+  {
+    "row_id": "credit_row_00000022",
+    "source": "credit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "City of Pasadena, CACharlotte           NC",
+    "description": "City of Pasadena, CACharlotte NC",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 0.51,
+    "stable_id": "credit_ea1e8e8291fbc4ff"
+  },
+  {
+    "row_id": "credit_row_00000021",
+    "source": "credit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "City of Pasadena, CACharlotte           NC",
+    "description": "City of Pasadena, CACharlotte NC",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 0.51,
+    "stable_id": "credit_ea1e8d8291fbc34c"
+  },
+  {
+    "row_id": "credit_row_00000020",
+    "source": "credit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "CHEVRON 0209624/CHEVWEST COVINA         CA",
+    "description": "CHEVRON 0209624/CHEVWEST COVINA CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 30,
+    "stable_id": "credit_d94b54cb50b31ae6"
+  },
+  {
+    "row_id": "credit_row_00000019",
+    "source": "credit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "AMAZON.COM          AMZN.COM/BILL       WA",
+    "description": "AMAZON.COM AMZN.COM/BILL WA",
+    "card_member": "ICAR LIFESTYLE R",
+    "account": "-72013",
+    "amount": 45.28,
+    "stable_id": "credit_ccce72d1edea171f"
+  },
+  {
+    "row_id": "credit_row_00000024",
+    "source": "credit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "UNION 76 09494386   LA VERNE            CA",
+    "description": "UNION 76 09494386 LA VERNE CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 30,
+    "stable_id": "credit_b9ecd37e2a59d467"
+  },
+  {
+    "row_id": "credit_row_00000018",
+    "source": "credit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "705 W HUNTINGTON DR MONROVIA            CA",
+    "description": "705 W HUNTINGTON DR MONROVIA CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 20.06,
+    "stable_id": "credit_4c6ce453b608cef8"
+  },
+  {
+    "row_id": "credit_row_00000025",
+    "source": "credit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "YAMI.COM            EASTVALE            CA",
+    "description": "YAMI.COM EASTVALE CA",
+    "card_member": "XINTING PENG",
+    "account": "-71056",
+    "amount": 18.98,
+    "stable_id": "credit_14cdabb6176ddc2f"
+  },
+  {
+    "row_id": "credit_row_00000023",
+    "source": "credit",
+    "date": "2026-01-14",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "SHIP SAVING         833-387-7396        CA",
+    "description": "SHIP SAVING 833-387-7396 CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 11.49,
+    "stable_id": "credit_08071ff9ae811ca0"
+  },
+  {
+    "row_id": "credit_row_00000030",
+    "source": "credit",
+    "date": "2026-01-13",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "FASCHING'S CAR WASH ARCADIA             CA",
+    "description": "FASCHING'S CAR WASH ARCADIA CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 33.95,
+    "stable_id": "credit_fe2007f982bf9281"
+  },
+  {
+    "row_id": "credit_row_00000031",
+    "source": "credit",
+    "date": "2026-01-13",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "STAPLES 00616       PASADENA            CA",
+    "description": "STAPLES 00616 PASADENA CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": -164.61,
+    "stable_id": "credit_fb4f9843dba7d048"
+  },
+  {
+    "row_id": "credit_row_00000027",
+    "source": "credit",
+    "date": "2026-01-13",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "CHEVRON 0092407/CHEVARCADIA             CA",
+    "description": "CHEVRON 0092407/CHEVARCADIA CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 20.05,
+    "stable_id": "credit_9de14ef95a1f68e7"
+  },
+  {
+    "row_id": "credit_row_00000026",
+    "source": "credit",
+    "date": "2026-01-13",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "ARCADIA SMOG TEST ONArcadia             CA",
+    "description": "ARCADIA SMOG TEST ONArcadia CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 69.75,
+    "stable_id": "credit_8db527b5f374e17a"
+  },
+  {
+    "row_id": "credit_row_00000032",
+    "source": "credit",
+    "date": "2026-01-13",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "YAMI.COM            EASTVALE            CA",
+    "description": "YAMI.COM EASTVALE CA",
+    "card_member": "XINTING PENG",
+    "account": "-71056",
+    "amount": 98.39,
+    "stable_id": "credit_8cafbe0d41dd71a7"
+  },
+  {
+    "row_id": "credit_row_00000029",
+    "source": "credit",
+    "date": "2026-01-13",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "CHICK-FIL-A #04698 0MONROVIA            CA",
+    "description": "CHICK-FIL-A #04698 0MONROVIA CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 8.72,
+    "stable_id": "credit_767c24c7e4decd69"
+  },
+  {
+    "row_id": "credit_row_00000028",
+    "source": "credit",
+    "date": "2026-01-13",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "CHEVRON 0092407/CHEVARCADIA             CA",
+    "description": "CHEVRON 0092407/CHEVARCADIA CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 56.43,
+    "stable_id": "credit_513fd6bc6f0b3ac7"
+  },
+  {
+    "row_id": "credit_row_00000034",
+    "source": "credit",
     "date": "2026-01-11",
     "month": "2026-01",
     "receipt": null,
@@ -13,7 +442,7 @@
     "stable_id": "credit_9946b0ad7b220dbc"
   },
   {
-    "row_id": "credit_row_00000000",
+    "row_id": "credit_row_00000033",
     "source": "credit",
     "date": "2026-01-11",
     "month": "2026-01",
@@ -26,7 +455,7 @@
     "stable_id": "credit_22c2c9a74672c4b6"
   },
   {
-    "row_id": "credit_row_00000004",
+    "row_id": "credit_row_00000037",
     "source": "credit",
     "date": "2026-01-10",
     "month": "2026-01",
@@ -39,7 +468,7 @@
     "stable_id": "credit_aef48c5726173964"
   },
   {
-    "row_id": "credit_row_00000002",
+    "row_id": "credit_row_00000035",
     "source": "credit",
     "date": "2026-01-10",
     "month": "2026-01",
@@ -52,7 +481,7 @@
     "stable_id": "credit_8cf43bab0421477b"
   },
   {
-    "row_id": "credit_row_00000003",
+    "row_id": "credit_row_00000036",
     "source": "credit",
     "date": "2026-01-10",
     "month": "2026-01",
@@ -65,7 +494,7 @@
     "stable_id": "credit_851f48455edc7030"
   },
   {
-    "row_id": "credit_row_00000006",
+    "row_id": "credit_row_00000039",
     "source": "credit",
     "date": "2026-01-08",
     "month": "2026-01",
@@ -78,7 +507,7 @@
     "stable_id": "credit_b2357c4f233d5378"
   },
   {
-    "row_id": "credit_row_00000005",
+    "row_id": "credit_row_00000038",
     "source": "credit",
     "date": "2026-01-08",
     "month": "2026-01",
@@ -91,7 +520,7 @@
     "stable_id": "credit_a9f58de3a68cae8b"
   },
   {
-    "row_id": "credit_row_00000007",
+    "row_id": "credit_row_00000040",
     "source": "credit",
     "date": "2026-01-08",
     "month": "2026-01",
@@ -104,7 +533,7 @@
     "stable_id": "credit_3ca3d4dfdb732ffb"
   },
   {
-    "row_id": "credit_row_00000009",
+    "row_id": "credit_row_00000042",
     "source": "credit",
     "date": "2026-01-07",
     "month": "2026-01",
@@ -117,7 +546,7 @@
     "stable_id": "credit_1cb951e72d2ede8d"
   },
   {
-    "row_id": "credit_row_00000008",
+    "row_id": "credit_row_00000041",
     "source": "credit",
     "date": "2026-01-07",
     "month": "2026-01",
@@ -130,7 +559,7 @@
     "stable_id": "credit_0d42550c5490c933"
   },
   {
-    "row_id": "credit_row_00000010",
+    "row_id": "credit_row_00000043",
     "source": "credit",
     "date": "2026-01-07",
     "month": "2026-01",
@@ -143,7 +572,7 @@
     "stable_id": "credit_05d96ba1a28b47f1"
   },
   {
-    "row_id": "credit_row_00000011",
+    "row_id": "credit_row_00000044",
     "source": "credit",
     "date": "2026-01-06",
     "month": "2026-01",
@@ -156,7 +585,7 @@
     "stable_id": "credit_3cdf8f6f7b1ad95f"
   },
   {
-    "row_id": "credit_row_00000012",
+    "row_id": "credit_row_00000045",
     "source": "credit",
     "date": "2026-01-06",
     "month": "2026-01",
@@ -169,7 +598,7 @@
     "stable_id": "credit_04c751f7bd855efd"
   },
   {
-    "row_id": "credit_row_00000013",
+    "row_id": "credit_row_00000046",
     "source": "credit",
     "date": "2026-01-05",
     "month": "2026-01",
@@ -182,7 +611,7 @@
     "stable_id": "credit_bb47478a3437cfa7"
   },
   {
-    "row_id": "credit_row_00000014",
+    "row_id": "credit_row_00000047",
     "source": "credit",
     "date": "2026-01-05",
     "month": "2026-01",
@@ -195,7 +624,7 @@
     "stable_id": "credit_a26fb6d6ad4db608"
   },
   {
-    "row_id": "credit_row_00000015",
+    "row_id": "credit_row_00000048",
     "source": "credit",
     "date": "2026-01-05",
     "month": "2026-01",
@@ -208,7 +637,7 @@
     "stable_id": "credit_16e2c580ddc6df83"
   },
   {
-    "row_id": "credit_row_00000017",
+    "row_id": "credit_row_00000050",
     "source": "credit",
     "date": "2026-01-03",
     "month": "2026-01",
@@ -221,7 +650,7 @@
     "stable_id": "credit_ec0b0fc240723c7e"
   },
   {
-    "row_id": "credit_row_00000020",
+    "row_id": "credit_row_00000053",
     "source": "credit",
     "date": "2026-01-03",
     "month": "2026-01",
@@ -234,7 +663,7 @@
     "stable_id": "credit_5824eeaee27768e4"
   },
   {
-    "row_id": "credit_row_00000018",
+    "row_id": "credit_row_00000051",
     "source": "credit",
     "date": "2026-01-03",
     "month": "2026-01",
@@ -247,7 +676,7 @@
     "stable_id": "credit_29cafa62f9ffc8fb"
   },
   {
-    "row_id": "credit_row_00000019",
+    "row_id": "credit_row_00000052",
     "source": "credit",
     "date": "2026-01-03",
     "month": "2026-01",
@@ -260,7 +689,7 @@
     "stable_id": "credit_1d7d46670db74ec1"
   },
   {
-    "row_id": "credit_row_00000016",
+    "row_id": "credit_row_00000049",
     "source": "credit",
     "date": "2026-01-03",
     "month": "2026-01",
@@ -273,7 +702,7 @@
     "stable_id": "credit_1333c0c29bb51fc0"
   },
   {
-    "row_id": "credit_row_00000021",
+    "row_id": "credit_row_00000054",
     "source": "credit",
     "date": "2026-01-02",
     "month": "2026-01",
@@ -286,7 +715,7 @@
     "stable_id": "credit_7b9c3e00ac40009a"
   },
   {
-    "row_id": "credit_row_00000022",
+    "row_id": "credit_row_00000055",
     "source": "credit",
     "date": "2026-01-02",
     "month": "2026-01",
@@ -299,7 +728,7 @@
     "stable_id": "credit_615e94255d5f6d1e"
   },
   {
-    "row_id": "credit_row_00000023",
+    "row_id": "credit_row_00000056",
     "source": "credit",
     "date": "2026-01-01",
     "month": "2026-01",
@@ -312,7 +741,7 @@
     "stable_id": "credit_f807758822279f5c"
   },
   {
-    "row_id": "credit_row_00000026",
+    "row_id": "credit_row_00000059",
     "source": "credit",
     "date": "2026-01-01",
     "month": "2026-01",
@@ -325,7 +754,7 @@
     "stable_id": "credit_a8b8ff15891e4624"
   },
   {
-    "row_id": "credit_row_00000025",
+    "row_id": "credit_row_00000058",
     "source": "credit",
     "date": "2026-01-01",
     "month": "2026-01",
@@ -338,7 +767,7 @@
     "stable_id": "credit_282c42829a52c854"
   },
   {
-    "row_id": "credit_row_00000024",
+    "row_id": "credit_row_00000057",
     "source": "credit",
     "date": "2026-01-01",
     "month": "2026-01",

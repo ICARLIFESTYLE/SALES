@@ -88,7 +88,7 @@
     "Deal Date": "03/19/2025 00:00:00",
     "Lender Name": "WESTLAKE FINANCIAL",
     "Customer Name": "PABLO CERVANTES",
-    "Sold Status": "SOLD - NEEDS FINANCING",
+    "Sold Status": "SOLD - FUNDED",
     "Selling Price": "24500",
     "Amt. Financed": "25981.78",
     "Finance Charge": "13293.5",
@@ -101,7 +101,7 @@
     "Total Fees": "212",
     "Gap Cost": "570",
     "Additional Products Cost": "0",
-    "Lender Fee": "899.99",
+    "Lender Fee": "999.99",
     "Commissions": "0",
     "Discount": "0",
     "Deal Costs": "65",
@@ -114,10 +114,10 @@
     "Lot Fee": "0",
     "Total Cash in Deal": "25931.15",
     "Total Vehicle Cost": "23741.38",
-    "Front Gross": "-74.37",
+    "Front Gross": "-174.37",
     "Back-End Gross": "1490.92",
-    "Total Gross": "1416.55",
-    "Net Profit": "1416.55"
+    "Total Gross": "1316.55",
+    "Net Profit": "1316.55"
   },
   {
     "Stock Number": "A02491",
