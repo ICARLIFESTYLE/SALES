@@ -1,6 +1,695 @@
 [
   {
-    "row_id": "credit_row_00000001",
+    "row_id": "credit_row_00000188",
+    "source": "credit",
+    "date": "2026-01-31",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "FASCHING'S CAR WASH ARCADIA             CA",
+    "description": "FASCHING'S CAR WASH ARCADIA CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 29.95,
+    "stable_id": "credit_ed95f9d4b43400d1"
+  },
+  {
+    "row_id": "credit_row_00000189",
+    "source": "credit",
+    "date": "2026-01-31",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "TESLA INC SUPERCHARGPALO ALTO",
+    "description": "TESLA INC SUPERCHARGPALO ALTO",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 4.75,
+    "stable_id": "credit_ea667c0c078443cc"
+  },
+  {
+    "row_id": "credit_row_00000187",
+    "source": "credit",
+    "date": "2026-01-31",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "ARCADIA SMOG TEST ONArcadia             CA",
+    "description": "ARCADIA SMOG TEST ONArcadia CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 69.75,
+    "stable_id": "credit_e7d45206e436519b"
+  },
+  {
+    "row_id": "credit_row_00000190",
+    "source": "credit",
+    "date": "2026-01-31",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "TESLA INC SUPERCHARGPALO ALTO",
+    "description": "TESLA INC SUPERCHARGPALO ALTO",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 14.32,
+    "stable_id": "credit_aca6ce6f06fd2ada"
+  },
+  {
+    "row_id": "credit_row_00000191",
+    "source": "credit",
+    "date": "2026-01-30",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "ARCADIA SMOG TEST ONArcadia             CA",
+    "description": "ARCADIA SMOG TEST ONArcadia CA",
+    "card_member": "TINGTO BI",
+    "account": "-71049",
+    "amount": 69.75,
+    "stable_id": "credit_8546aeffd0142df2"
+  },
+  {
+    "row_id": "credit_row_00000193",
+    "source": "credit",
+    "date": "2026-01-30",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "FASCHING'S CAR WASH ARCADIA             CA",
+    "description": "FASCHING'S CAR WASH ARCADIA CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 28.95,
+    "stable_id": "credit_677be14a5c7f962f"
+  },
+  {
+    "row_id": "credit_row_00000192",
+    "source": "credit",
+    "date": "2026-01-30",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "CHEVRON 0092407/CHEVARCADIA             CA",
+    "description": "CHEVRON 0092407/CHEVARCADIA CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 30,
+    "stable_id": "credit_277369ef647d5b96"
+  },
+  {
+    "row_id": "credit_row_00000199",
+    "source": "credit",
+    "date": "2026-01-29",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "TESLA INC SUPERCHARGPALO ALTO",
+    "description": "TESLA INC SUPERCHARGPALO ALTO",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 17.59,
+    "stable_id": "credit_edc860a8c8966d1f"
+  },
+  {
+    "row_id": "credit_row_00000197",
+    "source": "credit",
+    "date": "2026-01-29",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "TESLA INC SUPERCHARGPALO ALTO",
+    "description": "TESLA INC SUPERCHARGPALO ALTO",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 12.61,
+    "stable_id": "credit_e52e39a727584e21"
+  },
+  {
+    "row_id": "credit_row_00000194",
+    "source": "credit",
+    "date": "2026-01-29",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "1919 LANZHOU BEEF NOARCADIA             CA",
+    "description": "1919 LANZHOU BEEF NOARCADIA CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 17.56,
+    "stable_id": "credit_b24ee454d8b1a3a2"
+  },
+  {
+    "row_id": "credit_row_00000198",
+    "source": "credit",
+    "date": "2026-01-29",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "TESLA INC SUPERCHARGPALO ALTO",
+    "description": "TESLA INC SUPERCHARGPALO ALTO",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 12.76,
+    "stable_id": "credit_a5ea0258c53ed58d"
+  },
+  {
+    "row_id": "credit_row_00000196",
+    "source": "credit",
+    "date": "2026-01-29",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "CHEVRON 0092407/CHEVARCADIA             CA",
+    "description": "CHEVRON 0092407/CHEVARCADIA CA",
+    "card_member": "TINGTO BI",
+    "account": "-71049",
+    "amount": 10.31,
+    "stable_id": "credit_523386cb6cb9c9da"
+  },
+  {
+    "row_id": "credit_row_00000195",
+    "source": "credit",
+    "date": "2026-01-29",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "ARCADIA SMOG TEST ONArcadia             CA",
+    "description": "ARCADIA SMOG TEST ONArcadia CA",
+    "card_member": "TINGTO BI",
+    "account": "-71049",
+    "amount": 69.75,
+    "stable_id": "credit_3c2f3a0193f439f4"
+  },
+  {
+    "row_id": "credit_row_00000202",
+    "source": "credit",
+    "date": "2026-01-28",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "MOBILE PAYMENT - THANK YOU",
+    "description": "MOBILE PAYMENT - THANK YOU",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": -10728,
+    "stable_id": "credit_ffe24eb55bc584f2"
+  },
+  {
+    "row_id": "credit_row_00000200",
+    "source": "credit",
+    "date": "2026-01-28",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "CHEVRON 0092407/CHEVARCADIA             CA",
+    "description": "CHEVRON 0092407/CHEVARCADIA CA",
+    "card_member": "TINGTO BI",
+    "account": "-71049",
+    "amount": 40.64,
+    "stable_id": "credit_b09ed7cf7013ad6c"
+  },
+  {
+    "row_id": "credit_row_00000201",
+    "source": "credit",
+    "date": "2026-01-28",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "CHEVRON 0092407/CHEVARCADIA             CA",
+    "description": "CHEVRON 0092407/CHEVARCADIA CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 70.49,
+    "stable_id": "credit_96f4fbfd207eaaef"
+  },
+  {
+    "row_id": "credit_row_00000205",
+    "source": "credit",
+    "date": "2026-01-28",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "SHIP SAVING         833-387-7396        CA",
+    "description": "SHIP SAVING 833-387-7396 CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 11.27,
+    "stable_id": "credit_9573a9fba3b3df3d"
+  },
+  {
+    "row_id": "credit_row_00000203",
+    "source": "credit",
+    "date": "2026-01-28",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "SHIP SAVING         833-387-7396        CA",
+    "description": "SHIP SAVING 833-387-7396 CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 11.27,
+    "stable_id": "credit_9573a7fba3b3dbd7"
+  },
+  {
+    "row_id": "credit_row_00000204",
+    "source": "credit",
+    "date": "2026-01-28",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "SHIP SAVING         833-387-7396        CA",
+    "description": "SHIP SAVING 833-387-7396 CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 11.27,
+    "stable_id": "credit_9573a6fba3b3da24"
+  },
+  {
+    "row_id": "credit_row_00000206",
+    "source": "credit",
+    "date": "2026-01-28",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "UBER",
+    "description": "UBER",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 32.94,
+    "stable_id": "credit_8390f286ec4a17d2"
+  },
+  {
+    "row_id": "credit_row_00000211",
+    "source": "credit",
+    "date": "2026-01-27",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "UBER",
+    "description": "UBER",
+    "card_member": "ICAR LIFESTYLE R",
+    "account": "-72013",
+    "amount": 29.02,
+    "stable_id": "credit_fbf34eaedfb7ccd3"
+  },
+  {
+    "row_id": "credit_row_00000212",
+    "source": "credit",
+    "date": "2026-01-27",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "UBER",
+    "description": "UBER",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 49.94,
+    "stable_id": "credit_b6548293a2353065"
+  },
+  {
+    "row_id": "credit_row_00000209",
+    "source": "credit",
+    "date": "2026-01-27",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "SHIP SAVING         833-387-7396        CA",
+    "description": "SHIP SAVING 833-387-7396 CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 28.29,
+    "stable_id": "credit_ac596fabed0f0fb4"
+  },
+  {
+    "row_id": "credit_row_00000210",
+    "source": "credit",
+    "date": "2026-01-27",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "UBER",
+    "description": "UBER",
+    "card_member": "ICAR LIFESTYLE R",
+    "account": "-72013",
+    "amount": 9.17,
+    "stable_id": "credit_930b51d2f488b2e9"
+  },
+  {
+    "row_id": "credit_row_00000207",
+    "source": "credit",
+    "date": "2026-01-27",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "MISSION FUEL GASOLINARCADIA             CA",
+    "description": "MISSION FUEL GASOLINARCADIA CA",
+    "card_member": "TINGTO BI",
+    "account": "-71049",
+    "amount": 31.51,
+    "stable_id": "credit_504b1bd037809ca2"
+  },
+  {
+    "row_id": "credit_row_00000208",
+    "source": "credit",
+    "date": "2026-01-27",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "SHIP SAVING         833-387-7396        CA",
+    "description": "SHIP SAVING 833-387-7396 CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 11.27,
+    "stable_id": "credit_2e94dab630979212"
+  },
+  {
+    "row_id": "credit_row_00000213",
+    "source": "credit",
+    "date": "2026-01-26",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "ARCADIA SMOG TEST ONArcadia             CA",
+    "description": "ARCADIA SMOG TEST ONArcadia CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 69.75,
+    "stable_id": "credit_ec4b7227e5e3c663"
+  },
+  {
+    "row_id": "credit_row_00000214",
+    "source": "credit",
+    "date": "2026-01-26",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "ARCADIA SMOG TEST ONArcadia             CA",
+    "description": "ARCADIA SMOG TEST ONArcadia CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 69.75,
+    "stable_id": "credit_c52dbfe32192a78a"
+  },
+  {
+    "row_id": "credit_row_00000217",
+    "source": "credit",
+    "date": "2026-01-26",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "SHIP SAVING         833-387-7396        CA",
+    "description": "SHIP SAVING 833-387-7396 CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 11.27,
+    "stable_id": "credit_5697f56442297a39"
+  },
+  {
+    "row_id": "credit_row_00000218",
+    "source": "credit",
+    "date": "2026-01-26",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "TESLA INC SUPERCHARGPALO ALTO",
+    "description": "TESLA INC SUPERCHARGPALO ALTO",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 26.57,
+    "stable_id": "credit_48fe6695b104c258"
+  },
+  {
+    "row_id": "credit_row_00000216",
+    "source": "credit",
+    "date": "2026-01-26",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "CHEVRON 0092407/CHEVARCADIA             CA",
+    "description": "CHEVRON 0092407/CHEVARCADIA CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 20,
+    "stable_id": "credit_11724c367442f261"
+  },
+  {
+    "row_id": "credit_row_00000215",
+    "source": "credit",
+    "date": "2026-01-26",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "AplPay UEP*ARRAY 36 SAN GABRIEL         CA",
+    "description": "AplPay UEP*ARRAY 36 SAN GABRIEL CA",
+    "card_member": "ICAR LIFESTYLE R",
+    "account": "-72013",
+    "amount": 1848.66,
+    "stable_id": "credit_0a76545dfc7a9af5"
+  },
+  {
+    "row_id": "credit_row_00000219",
+    "source": "credit",
+    "date": "2026-01-25",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "CHEVRON 0308950/CHEVPOMONA              CA",
+    "description": "CHEVRON 0308950/CHEVPOMONA CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 40,
+    "stable_id": "credit_57b0c3ef5ca93855"
+  },
+  {
+    "row_id": "credit_row_00000220",
+    "source": "credit",
+    "date": "2026-01-25",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "TESLA INC SUPERCHARGPALO ALTO",
+    "description": "TESLA INC SUPERCHARGPALO ALTO",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 17.98,
+    "stable_id": "credit_461ab2680ff0ba08"
+  },
+  {
+    "row_id": "credit_row_00000221",
+    "source": "credit",
+    "date": "2026-01-24",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "UBER",
+    "description": "UBER",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 46.94,
+    "stable_id": "credit_89d2971478298c8f"
+  },
+  {
+    "row_id": "credit_row_00000223",
+    "source": "credit",
+    "date": "2026-01-23",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "FASCHING'S CAR WASH ARCADIA             CA",
+    "description": "FASCHING'S CAR WASH ARCADIA CA",
+    "card_member": "TINGTO BI",
+    "account": "-71049",
+    "amount": 26.95,
+    "stable_id": "credit_ade1c9bacefee447"
+  },
+  {
+    "row_id": "credit_row_00000222",
+    "source": "credit",
+    "date": "2026-01-23",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "FASCHING'S CAR WASH ARCADIA             CA",
+    "description": "FASCHING'S CAR WASH ARCADIA CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 26.95,
+    "stable_id": "credit_4e866678bc593fa4"
+  },
+  {
+    "row_id": "credit_row_00000224",
+    "source": "credit",
+    "date": "2026-01-23",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "QUIX TOP 00000000088LA PUENTE           CA",
+    "description": "QUIX TOP 00000000088LA PUENTE CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 34.76,
+    "stable_id": "credit_36a28855737733e2"
+  },
+  {
+    "row_id": "credit_row_00000226",
+    "source": "credit",
+    "date": "2026-01-22",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "SHIP SAVING         833-387-7396        CA",
+    "description": "SHIP SAVING 833-387-7396 CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 11.27,
+    "stable_id": "credit_50cae87b59a9495d"
+  },
+  {
+    "row_id": "credit_row_00000225",
+    "source": "credit",
+    "date": "2026-01-22",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "CHEVRON 0092407/CHEVARCADIA             CA",
+    "description": "CHEVRON 0092407/CHEVARCADIA CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 106.49,
+    "stable_id": "credit_283596ff9cebfedf"
+  },
+  {
+    "row_id": "credit_row_00000227",
+    "source": "credit",
+    "date": "2026-01-22",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "UBER",
+    "description": "UBER",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 39,
+    "stable_id": "credit_089258538b60ea41"
+  },
+  {
+    "row_id": "credit_row_00000229",
+    "source": "credit",
+    "date": "2026-01-21",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "CHEVRON 0092407/CHEVARCADIA             CA",
+    "description": "CHEVRON 0092407/CHEVARCADIA CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 25.08,
+    "stable_id": "credit_e28556a3212c42fa"
+  },
+  {
+    "row_id": "credit_row_00000228",
+    "source": "credit",
+    "date": "2026-01-21",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "AplPay TEMU.COM     TEMU.COM            DE",
+    "description": "AplPay TEMU.COM TEMU.COM DE",
+    "card_member": "ICAR LIFESTYLE R",
+    "account": "-72013",
+    "amount": 30.15,
+    "stable_id": "credit_ca4afd3e110b3a41"
+  },
+  {
+    "row_id": "credit_row_00000235",
+    "source": "credit",
+    "date": "2026-01-21",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "WALMART PLUS MONTHLY",
+    "description": "WALMART PLUS MONTHLY",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": -14.31,
+    "stable_id": "credit_c94fbfb06bb41f93"
+  },
+  {
+    "row_id": "credit_row_00000231",
+    "source": "credit",
+    "date": "2026-01-21",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "FASCHING'S CAR WASH ARCADIA             CA",
+    "description": "FASCHING'S CAR WASH ARCADIA CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 26.95,
+    "stable_id": "credit_9d215c83d12cb18e"
+  },
+  {
+    "row_id": "credit_row_00000236",
+    "source": "credit",
+    "date": "2026-01-21",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "WMT PLUS Jan 2026 028009666546          AR",
+    "description": "WMT PLUS Jan 2026 028009666546 AR",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 14.31,
+    "stable_id": "credit_8a92e7d3340db7e7"
+  },
+  {
+    "row_id": "credit_row_00000233",
+    "source": "credit",
+    "date": "2026-01-21",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "UNION 76 09469560   RUNNING SPRINGS     CA",
+    "description": "UNION 76 09469560 RUNNING SPRINGS CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 30,
+    "stable_id": "credit_6584b525159ad5aa"
+  },
+  {
+    "row_id": "credit_row_00000234",
+    "source": "credit",
+    "date": "2026-01-21",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "UBER",
+    "description": "UBER",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 58.93,
+    "stable_id": "credit_5282a48ee437e418"
+  },
+  {
+    "row_id": "credit_row_00000230",
+    "source": "credit",
+    "date": "2026-01-21",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "CHICK-FIL-A #03349 0PASADENA            CA",
+    "description": "CHICK-FIL-A #03349 0PASADENA CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 26.49,
+    "stable_id": "credit_4408f43ab4ab9086"
+  },
+  {
+    "row_id": "credit_row_00000232",
+    "source": "credit",
+    "date": "2026-01-21",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "SHIP SAVING         833-387-7396        CA",
+    "description": "SHIP SAVING 833-387-7396 CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 11.27,
+    "stable_id": "credit_1a7ff71dbc580838"
+  },
+  {
+    "row_id": "credit_row_00000241",
+    "source": "credit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "TESLA INC SUPERCHARGPALO ALTO",
+    "description": "TESLA INC SUPERCHARGPALO ALTO",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 11.01,
+    "stable_id": "credit_f9a081270b6c936f"
+  },
+  {
+    "row_id": "credit_row_00000239",
+    "source": "credit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "FASCHING'S CAR WASH ARCADIA             CA",
+    "description": "FASCHING'S CAR WASH ARCADIA CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 24.95,
+    "stable_id": "credit_e7c13d430b666bd4"
+  },
+  {
+    "row_id": "credit_row_00000243",
+    "source": "credit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "VERIZONWRLSS RTCCRVB800-922-0204        FL",
+    "description": "VERIZONWRLSS RTCCRVB800-922-0204 FL",
+    "card_member": "ICAR LIFESTYLE R",
+    "account": "-72013",
+    "amount": 625.35,
+    "stable_id": "credit_8e38b6f99fb49ac3"
+  },
+  {
+    "row_id": "credit_row_00000242",
     "source": "credit",
     "date": "2026-01-20",
     "month": "2026-01",
@@ -13,7 +702,7 @@
     "stable_id": "credit_7ded3a2da758729a"
   },
   {
-    "row_id": "credit_row_00000000",
+    "row_id": "credit_row_00000237",
     "source": "credit",
     "date": "2026-01-20",
     "month": "2026-01",
@@ -26,7 +715,46 @@
     "stable_id": "credit_513bfb705255a75c"
   },
   {
-    "row_id": "credit_row_00000005",
+    "row_id": "credit_row_00000238",
+    "source": "credit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "CHEVRON 0092407/CHEVARCADIA             CA",
+    "description": "CHEVRON 0092407/CHEVARCADIA CA",
+    "card_member": "ZIJIE JIANG",
+    "account": "-71031",
+    "amount": 30,
+    "stable_id": "credit_1f1749f40f296920"
+  },
+  {
+    "row_id": "credit_row_00000240",
+    "source": "credit",
+    "date": "2026-01-20",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "SHIP SAVING         833-387-7396        CA",
+    "description": "SHIP SAVING 833-387-7396 CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 11.27,
+    "stable_id": "credit_1d2b9be1dabc37ff"
+  },
+  {
+    "row_id": "credit_row_00000248",
+    "source": "credit",
+    "date": "2026-01-19",
+    "month": "2026-01",
+    "receipt": null,
+    "description_raw": "SHIP SAVING         833-387-7396        CA",
+    "description": "SHIP SAVING 833-387-7396 CA",
+    "card_member": "SHANGQI LI",
+    "account": "-73003",
+    "amount": 11.27,
+    "stable_id": "credit_60fd3e5f89e187a3"
+  },
+  {
+    "row_id": "credit_row_00000247",
     "source": "credit",
     "date": "2026-01-19",
     "month": "2026-01",
@@ -39,7 +767,7 @@
     "stable_id": "credit_326577fe173d3bb8"
   },
   {
-    "row_id": "credit_row_00000002",
+    "row_id": "credit_row_00000244",
     "source": "credit",
     "date": "2026-01-19",
     "month": "2026-01",
@@ -52,7 +780,7 @@
     "stable_id": "credit_167b57eab6647592"
   },
   {
-    "row_id": "credit_row_00000004",
+    "row_id": "credit_row_00000246",
     "source": "credit",
     "date": "2026-01-19",
     "month": "2026-01",
@@ -65,7 +793,7 @@
     "stable_id": "credit_0f901d7628038110"
   },
   {
-    "row_id": "credit_row_00000003",
+    "row_id": "credit_row_00000245",
     "source": "credit",
     "date": "2026-01-19",
     "month": "2026-01",
@@ -78,7 +806,7 @@
     "stable_id": "credit_0e4d416564a3b25f"
   },
   {
-    "row_id": "credit_row_00000007",
+    "row_id": "credit_row_00000250",
     "source": "credit",
     "date": "2026-01-17",
     "month": "2026-01",
@@ -91,7 +819,7 @@
     "stable_id": "credit_53c6544774e4c1a6"
   },
   {
-    "row_id": "credit_row_00000006",
+    "row_id": "credit_row_00000249",
     "source": "credit",
     "date": "2026-01-17",
     "month": "2026-01",
@@ -104,7 +832,7 @@
     "stable_id": "credit_33974366cd7b2dcf"
   },
   {
-    "row_id": "credit_row_00000008",
+    "row_id": "credit_row_00000251",
     "source": "credit",
     "date": "2026-01-16",
     "month": "2026-01",
@@ -117,7 +845,7 @@
     "stable_id": "credit_b0baa4014bf71d0c"
   },
   {
-    "row_id": "credit_row_00000009",
+    "row_id": "credit_row_00000252",
     "source": "credit",
     "date": "2026-01-16",
     "month": "2026-01",
@@ -130,7 +858,7 @@
     "stable_id": "credit_abe3661058061e33"
   },
   {
-    "row_id": "credit_row_00000011",
+    "row_id": "credit_row_00000254",
     "source": "credit",
     "date": "2026-01-16",
     "month": "2026-01",
@@ -143,7 +871,7 @@
     "stable_id": "credit_64bc4b133314ef3c"
   },
   {
-    "row_id": "credit_row_00000010",
+    "row_id": "credit_row_00000253",
     "source": "credit",
     "date": "2026-01-16",
     "month": "2026-01",
@@ -156,7 +884,7 @@
     "stable_id": "credit_223835877ee60bd3"
   },
   {
-    "row_id": "credit_row_00000013",
+    "row_id": "credit_row_00000256",
     "source": "credit",
     "date": "2026-01-15",
     "month": "2026-01",
@@ -169,7 +897,7 @@
     "stable_id": "credit_e539d175b548a151"
   },
   {
-    "row_id": "credit_row_00000015",
+    "row_id": "credit_row_00000258",
     "source": "credit",
     "date": "2026-01-15",
     "month": "2026-01",
@@ -182,7 +910,7 @@
     "stable_id": "credit_bd7ae519402febbb"
   },
   {
-    "row_id": "credit_row_00000017",
+    "row_id": "credit_row_00000260",
     "source": "credit",
     "date": "2026-01-15",
     "month": "2026-01",
@@ -195,7 +923,7 @@
     "stable_id": "credit_8851f023ffb07974"
   },
   {
-    "row_id": "credit_row_00000016",
+    "row_id": "credit_row_00000259",
     "source": "credit",
     "date": "2026-01-15",
     "month": "2026-01",
@@ -208,7 +936,7 @@
     "stable_id": "credit_6da490542104536a"
   },
   {
-    "row_id": "credit_row_00000012",
+    "row_id": "credit_row_00000255",
     "source": "credit",
     "date": "2026-01-15",
     "month": "2026-01",
@@ -221,7 +949,7 @@
     "stable_id": "credit_5a216534cf4c2e17"
   },
   {
-    "row_id": "credit_row_00000014",
+    "row_id": "credit_row_00000257",
     "source": "credit",
     "date": "2026-01-15",
     "month": "2026-01",
@@ -234,7 +962,7 @@
     "stable_id": "credit_4a6121a27d6c51f1"
   },
   {
-    "row_id": "credit_row_00000022",
+    "row_id": "credit_row_00000265",
     "source": "credit",
     "date": "2026-01-14",
     "month": "2026-01",
@@ -247,7 +975,7 @@
     "stable_id": "credit_ea1e8e8291fbc4ff"
   },
   {
-    "row_id": "credit_row_00000021",
+    "row_id": "credit_row_00000264",
     "source": "credit",
     "date": "2026-01-14",
     "month": "2026-01",
@@ -260,7 +988,7 @@
     "stable_id": "credit_ea1e8d8291fbc34c"
   },
   {
-    "row_id": "credit_row_00000020",
+    "row_id": "credit_row_00000263",
     "source": "credit",
     "date": "2026-01-14",
     "month": "2026-01",
@@ -273,7 +1001,7 @@
     "stable_id": "credit_d94b54cb50b31ae6"
   },
   {
-    "row_id": "credit_row_00000019",
+    "row_id": "credit_row_00000262",
     "source": "credit",
     "date": "2026-01-14",
     "month": "2026-01",
@@ -286,7 +1014,7 @@
     "stable_id": "credit_ccce72d1edea171f"
   },
   {
-    "row_id": "credit_row_00000024",
+    "row_id": "credit_row_00000267",
     "source": "credit",
     "date": "2026-01-14",
     "month": "2026-01",
@@ -299,7 +1027,7 @@
     "stable_id": "credit_b9ecd37e2a59d467"
   },
   {
-    "row_id": "credit_row_00000018",
+    "row_id": "credit_row_00000261",
     "source": "credit",
     "date": "2026-01-14",
     "month": "2026-01",
@@ -312,7 +1040,7 @@
     "stable_id": "credit_4c6ce453b608cef8"
   },
   {
-    "row_id": "credit_row_00000025",
+    "row_id": "credit_row_00000268",
     "source": "credit",
     "date": "2026-01-14",
     "month": "2026-01",
@@ -325,7 +1053,7 @@
     "stable_id": "credit_14cdabb6176ddc2f"
   },
   {
-    "row_id": "credit_row_00000023",
+    "row_id": "credit_row_00000266",
     "source": "credit",
     "date": "2026-01-14",
     "month": "2026-01",
@@ -338,7 +1066,7 @@
     "stable_id": "credit_08071ff9ae811ca0"
   },
   {
-    "row_id": "credit_row_00000030",
+    "row_id": "credit_row_00000273",
     "source": "credit",
     "date": "2026-01-13",
     "month": "2026-01",
@@ -351,7 +1079,7 @@
     "stable_id": "credit_fe2007f982bf9281"
   },
   {
-    "row_id": "credit_row_00000031",
+    "row_id": "credit_row_00000274",
     "source": "credit",
     "date": "2026-01-13",
     "month": "2026-01",
@@ -364,7 +1092,7 @@
     "stable_id": "credit_fb4f9843dba7d048"
   },
   {
-    "row_id": "credit_row_00000027",
+    "row_id": "credit_row_00000270",
     "source": "credit",
     "date": "2026-01-13",
     "month": "2026-01",
@@ -377,7 +1105,7 @@
     "stable_id": "credit_9de14ef95a1f68e7"
   },
   {
-    "row_id": "credit_row_00000026",
+    "row_id": "credit_row_00000269",
     "source": "credit",
     "date": "2026-01-13",
     "month": "2026-01",
@@ -390,7 +1118,7 @@
     "stable_id": "credit_8db527b5f374e17a"
   },
   {
-    "row_id": "credit_row_00000032",
+    "row_id": "credit_row_00000275",
     "source": "credit",
     "date": "2026-01-13",
     "month": "2026-01",
@@ -403,7 +1131,7 @@
     "stable_id": "credit_8cafbe0d41dd71a7"
   },
   {
-    "row_id": "credit_row_00000029",
+    "row_id": "credit_row_00000272",
     "source": "credit",
     "date": "2026-01-13",
     "month": "2026-01",
@@ -416,7 +1144,7 @@
     "stable_id": "credit_767c24c7e4decd69"
   },
   {
-    "row_id": "credit_row_00000028",
+    "row_id": "credit_row_00000271",
     "source": "credit",
     "date": "2026-01-13",
     "month": "2026-01",
@@ -429,7 +1157,7 @@
     "stable_id": "credit_513fd6bc6f0b3ac7"
   },
   {
-    "row_id": "credit_row_00000034",
+    "row_id": "credit_row_00000277",
     "source": "credit",
     "date": "2026-01-11",
     "month": "2026-01",
@@ -442,7 +1170,7 @@
     "stable_id": "credit_9946b0ad7b220dbc"
   },
   {
-    "row_id": "credit_row_00000033",
+    "row_id": "credit_row_00000276",
     "source": "credit",
     "date": "2026-01-11",
     "month": "2026-01",
@@ -455,7 +1183,7 @@
     "stable_id": "credit_22c2c9a74672c4b6"
   },
   {
-    "row_id": "credit_row_00000037",
+    "row_id": "credit_row_00000280",
     "source": "credit",
     "date": "2026-01-10",
     "month": "2026-01",
@@ -468,7 +1196,7 @@
     "stable_id": "credit_aef48c5726173964"
   },
   {
-    "row_id": "credit_row_00000035",
+    "row_id": "credit_row_00000278",
     "source": "credit",
     "date": "2026-01-10",
     "month": "2026-01",
@@ -481,7 +1209,7 @@
     "stable_id": "credit_8cf43bab0421477b"
   },
   {
-    "row_id": "credit_row_00000036",
+    "row_id": "credit_row_00000279",
     "source": "credit",
     "date": "2026-01-10",
     "month": "2026-01",
@@ -494,7 +1222,7 @@
     "stable_id": "credit_851f48455edc7030"
   },
   {
-    "row_id": "credit_row_00000039",
+    "row_id": "credit_row_00000282",
     "source": "credit",
     "date": "2026-01-08",
     "month": "2026-01",
@@ -507,7 +1235,7 @@
     "stable_id": "credit_b2357c4f233d5378"
   },
   {
-    "row_id": "credit_row_00000038",
+    "row_id": "credit_row_00000281",
     "source": "credit",
     "date": "2026-01-08",
     "month": "2026-01",
@@ -520,7 +1248,7 @@
     "stable_id": "credit_a9f58de3a68cae8b"
   },
   {
-    "row_id": "credit_row_00000040",
+    "row_id": "credit_row_00000283",
     "source": "credit",
     "date": "2026-01-08",
     "month": "2026-01",
@@ -533,7 +1261,7 @@
     "stable_id": "credit_3ca3d4dfdb732ffb"
   },
   {
-    "row_id": "credit_row_00000042",
+    "row_id": "credit_row_00000285",
     "source": "credit",
     "date": "2026-01-07",
     "month": "2026-01",
@@ -546,7 +1274,7 @@
     "stable_id": "credit_1cb951e72d2ede8d"
   },
   {
-    "row_id": "credit_row_00000041",
+    "row_id": "credit_row_00000284",
     "source": "credit",
     "date": "2026-01-07",
     "month": "2026-01",
@@ -559,7 +1287,7 @@
     "stable_id": "credit_0d42550c5490c933"
   },
   {
-    "row_id": "credit_row_00000043",
+    "row_id": "credit_row_00000286",
     "source": "credit",
     "date": "2026-01-07",
     "month": "2026-01",
@@ -572,7 +1300,7 @@
     "stable_id": "credit_05d96ba1a28b47f1"
   },
   {
-    "row_id": "credit_row_00000044",
+    "row_id": "credit_row_00000287",
     "source": "credit",
     "date": "2026-01-06",
     "month": "2026-01",
@@ -585,7 +1313,7 @@
     "stable_id": "credit_3cdf8f6f7b1ad95f"
   },
   {
-    "row_id": "credit_row_00000045",
+    "row_id": "credit_row_00000288",
     "source": "credit",
     "date": "2026-01-06",
     "month": "2026-01",
@@ -598,7 +1326,7 @@
     "stable_id": "credit_04c751f7bd855efd"
   },
   {
-    "row_id": "credit_row_00000046",
+    "row_id": "credit_row_00000289",
     "source": "credit",
     "date": "2026-01-05",
     "month": "2026-01",
@@ -611,7 +1339,7 @@
     "stable_id": "credit_bb47478a3437cfa7"
   },
   {
-    "row_id": "credit_row_00000047",
+    "row_id": "credit_row_00000290",
     "source": "credit",
     "date": "2026-01-05",
     "month": "2026-01",
@@ -624,7 +1352,7 @@
     "stable_id": "credit_a26fb6d6ad4db608"
   },
   {
-    "row_id": "credit_row_00000048",
+    "row_id": "credit_row_00000291",
     "source": "credit",
     "date": "2026-01-05",
     "month": "2026-01",
@@ -637,7 +1365,7 @@
     "stable_id": "credit_16e2c580ddc6df83"
   },
   {
-    "row_id": "credit_row_00000050",
+    "row_id": "credit_row_00000293",
     "source": "credit",
     "date": "2026-01-03",
     "month": "2026-01",
@@ -650,7 +1378,7 @@
     "stable_id": "credit_ec0b0fc240723c7e"
   },
   {
-    "row_id": "credit_row_00000053",
+    "row_id": "credit_row_00000296",
     "source": "credit",
     "date": "2026-01-03",
     "month": "2026-01",
@@ -663,7 +1391,7 @@
     "stable_id": "credit_5824eeaee27768e4"
   },
   {
-    "row_id": "credit_row_00000051",
+    "row_id": "credit_row_00000294",
     "source": "credit",
     "date": "2026-01-03",
     "month": "2026-01",
@@ -676,7 +1404,7 @@
     "stable_id": "credit_29cafa62f9ffc8fb"
   },
   {
-    "row_id": "credit_row_00000052",
+    "row_id": "credit_row_00000295",
     "source": "credit",
     "date": "2026-01-03",
     "month": "2026-01",
@@ -689,7 +1417,7 @@
     "stable_id": "credit_1d7d46670db74ec1"
   },
   {
-    "row_id": "credit_row_00000049",
+    "row_id": "credit_row_00000292",
     "source": "credit",
     "date": "2026-01-03",
     "month": "2026-01",
@@ -702,7 +1430,7 @@
     "stable_id": "credit_1333c0c29bb51fc0"
   },
   {
-    "row_id": "credit_row_00000054",
+    "row_id": "credit_row_00000297",
     "source": "credit",
     "date": "2026-01-02",
     "month": "2026-01",
@@ -715,7 +1443,7 @@
     "stable_id": "credit_7b9c3e00ac40009a"
   },
   {
-    "row_id": "credit_row_00000055",
+    "row_id": "credit_row_00000298",
     "source": "credit",
     "date": "2026-01-02",
     "month": "2026-01",
@@ -728,7 +1456,7 @@
     "stable_id": "credit_615e94255d5f6d1e"
   },
   {
-    "row_id": "credit_row_00000056",
+    "row_id": "credit_row_00000299",
     "source": "credit",
     "date": "2026-01-01",
     "month": "2026-01",
@@ -741,7 +1469,7 @@
     "stable_id": "credit_f807758822279f5c"
   },
   {
-    "row_id": "credit_row_00000059",
+    "row_id": "credit_row_00000302",
     "source": "credit",
     "date": "2026-01-01",
     "month": "2026-01",
@@ -754,7 +1482,7 @@
     "stable_id": "credit_a8b8ff15891e4624"
   },
   {
-    "row_id": "credit_row_00000058",
+    "row_id": "credit_row_00000301",
     "source": "credit",
     "date": "2026-01-01",
     "month": "2026-01",
@@ -767,7 +1495,7 @@
     "stable_id": "credit_282c42829a52c854"
   },
   {
-    "row_id": "credit_row_00000057",
+    "row_id": "credit_row_00000300",
     "source": "credit",
     "date": "2026-01-01",
     "month": "2026-01",
